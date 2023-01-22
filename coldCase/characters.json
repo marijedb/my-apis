@@ -1,0 +1,22 @@
+{
+    "characters": [
+        {
+            "userId": 1,
+            "name": "Lilly Rush",
+            "occupation": "detective",
+            "seasons": [1,2,3,4,5,6,7]
+        },
+        {
+            "userId": 2,
+            "name": "Scotty Valens",
+            "occupation": "detective"
+        }
+    ],
+    "generalInfo": {
+        "seasons": 7,
+        "episodes": 156,
+        "firstAired": "September 28th 2003",
+        "lastAired": "May 2nd 2010",
+        "network": "CBS"
+    }
+}
