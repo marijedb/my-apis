@@ -3,13 +3,86 @@
         {
             "userId": 1,
             "name": "Lilly Rush",
-            "occupation": "detective",
-            "seasons": [1,2,3,4,5,6,7]
+            "portrayedBy": "Kathryn Morris",
+            "alternativeCasting": {
+                "6YearsOld": "Makenna Barrett",
+                "9YearsOld": "Harley Graham",
+                "8Till10": "Megan Helin",
+                "10YearsOld": "Christina Celiner",
+                "young": "Madison Meyer",
+                "teen": "Stephanie Pearson"
+            },
+            "gender": "Female",
+            "occupation": "homicide detective",
+            "seasons": [1,2,3,4,5,6,7],
+            "family": {
+                "mother": "Ellen Rush",
+                "father": "Paul Cooper"
+            },
+            "isFavorite": false
         },
         {
             "userId": 2,
             "name": "Scotty Valens",
-            "occupation": "detective"
+            "portrayedBy": "",
+            "gender": "Male",
+            "occupation": "detective",
+            "seasons": [1,2,3,4,5,6,7],
+            "isFavorite": false
+        },
+        {
+            "userId": 3,
+            "name": "Will Jeffries",
+            "portrayedBy": "",
+            "gender": "Male",
+            "occupation": "detective",
+            "seasons": [1,2,3,4,5,6,7],
+            "isFavorite": false
+        },
+        {
+            "userId": 4,
+            "name": "Nick Vera",
+            "portrayedBy": "",
+            "gender": "Male",
+            "occupation": "detective",
+            "seasons": [1,2,3,4,5,6,7],
+            "isFavorite": false
+        },
+        {
+            "userId": 5,
+            "name": "Kat Miller",
+            "portrayedBy": "",
+            "gender": "Female",
+            "occupation": "detective",
+            "seasons": [],
+            "isFavorite": false
+        },
+        {
+            "userId": 6,
+            "name": "John Stillman",
+            "portrayedBy": "",
+            "gender": "Male",
+            "occupation": "lieutenant",
+            "seasons": [],
+            "isFavorite": false
+        },
+        {
+            "userId": 7,
+            "name": "Lennie Desalle",
+            "portrayedBy": "",
+            "gender": "Female",
+            "occupation": "",
+            "seasons": [2],
+            "isFavorite": false
+        },
+        {
+            "userId": 8,
+            "name": "Josie Sutton",
+            "portrayedBy": "",
+            "gender": "Female",
+            "occupation": "",
+            "seasons": [3],
+            "isFavorite": false
         }
     ],
     "generalInfo": {
@@ -19,4 +92,4 @@
         "lastAired": "May 2nd 2010",
         "network": "CBS"
     }
-}
+} 
