@@ -2,54 +2,89 @@
     "codes": [
         {
             "genre": "Actie en avontuur",
+            "english": "Action & Adventure",
             "code": 1365,
             "link": "https://www.netflix.com/browse/genre/1365"
         },
         {
             "genre": "Aziatische actiefilms",
+            "english": "Asian Action Films",
             "code": 77232,
             "link": "https://www.netflix.com/browse/genre/77232"
         },
         {
             "genre": "Klassieke actie en avontuur",
+            "english": "Classic Action & Adventure",
             "code": 46576,
             "link": "https://www.netflix.com/browse/genre/46576"
         },
         {
-            "genre": "Actie comedies",
+            "genre": "Actiekomedies",
+            "english": "Action Comedies",
             "code": 43040,
             "link": "https://www.netflix.com/browse/genre/43040"
         },
         {
-            "genre": "",
-            "code": 1,
-            "link": "https://www.netflix.com/browse/genre/"
+            "genre": "Actiethrillers",
+            "english": "Action Thrillers",
+            "code": 43048,
+            "link": "https://www.netflix.com/browse/genre/43048"
         },
         {
-            "genre": "",
-            "code": 1,
-            "link": "https://www.netflix.com/browse/genre/"
+            "genre": "Avonturenfilms",
+            "english": "Adventures",
+            "code": 7442,
+            "link": "https://www.netflix.com/browse/genre/7442"
         },
         {
-            "genre": "",
-            "code": 1,
-            "link": "https://www.netflix.com/browse/genre/"
+            "genre": "Strip- en superhelden",
+            "english": "Comic Book and Superhero Films",
+            "code": 10118,
+            "link": "https://www.netflix.com/browse/genre/10118"
         },
         {
-            "genre": "",
-            "code": 1,
-            "link": "https://www.netflix.com/browse/genre/"
+            "genre": "Westerns",
+            "english": "Westerns",
+            "code": 7700,
+            "link": "https://www.netflix.com/browse/genre/7700"
         },
         {
-            "genre": "",
-            "code": 1,
-            "link": "https://www.netflix.com/browse/genre/"
+            "genre": "Spionagefilms",
+            "english": "Spy Action & Adventure",
+            "code": 10702,
+            "link": "https://www.netflix.com/browse/genre/10702"
         },
         {
-            "genre": "",
+            "genre": "Misdaad, actie en avontuur",
+            "english": "Crime Action & Adventure",
+            "code": 9584,
+            "link": "https://www.netflix.com/browse/genre/9584"
+        },
+        {
+            "genre": "Martial Arts Films",
+            "english": "Martial Arts Films",
+            "code": 8985,
+            "link": "https://www.netflix.com/browse/genre/8985"
+        },
+        {
+            "genre": "Militaire actie en avontuur",
+            "english": "Military Action & Adventure",
+            "code": 2125,
+            "link": "https://www.netflix.com/browse/genre/2125"
+        },
+        {
+            "genre": "Anime",
+            "english": "Anime",
+            "code": 7424,
+            "link": "https://www.netflix.com/browse/genre/7424"
+        },
+        {
+            "genre": "test",
+            "english": "test",
             "code": 1,
-            "link": "https://www.netflix.com/browse/genre/"
+            "link": "https://www.netflix.com/browse/genre/1"
         }
+        
     ]
 }
 
