@@ -3,7 +3,7 @@
         "codes": [
             {
                 "genre": {
-                    "dutch": "Actie en avontuur",
+                    "dutch": "Actie en Avontuur",
                     "english": "Action & Adventure"
                 },
                 "code": 1365,
@@ -11,7 +11,7 @@
             },
             {
                 "genre": {
-                    "dutch": "Aziatische actiefilms",
+                    "dutch": "Aziatische Actiefilms",
                     "english": "Asian Action Films"
                 },
                 "code": 77232,
@@ -19,7 +19,7 @@
             },
             {
                 "genre": {
-                    "dutch": "Klassieke actie en avontuur",
+                    "dutch": "Klassieke Actie en Avontuur",
                     "english": "Classic Action & Adventure"
                 },
                 "code": 46576,
@@ -51,7 +51,7 @@
             },
             {
                 "genre": {
-                    "dutch": "Strip- en superhelden",
+                    "dutch": "Strip- en Superhelden",
                     "english": "Comic Book and Superhero Films"
                 },
                 "code": 10118,
@@ -75,7 +75,7 @@
             },
             {
                 "genre": {
-                    "dutch": "Misdaad, actie en avontuur",
+                    "dutch": "Misdaad, Actie en Avontuur",
                     "english": "Crime Action & Adventure"
                 },
                 "code": 9584,
@@ -91,7 +91,7 @@
             },
             {
                 "genre": { 
-                    "dutch": "Militaire actie en avontuur",
+                    "dutch": "Militaire Actie en Avontuur",
                     "english": "Military Action & Adventure"
                 },
                 "code": 2125,
@@ -104,6 +104,86 @@
                 },
                 "code": 7424,
                 "link": "https://www.netflix.com/browse/genre/7424"
+            },
+            {
+                "genre": {
+                    "dutch":"Volwassen Animatie",
+                    "english": "Adult Animation"
+                },
+                "code": 11881,
+                "link": "https://www.netflix.com/browse/genre/11881"
+            },
+            {
+                "genre": {
+                    "dutch":"Anime Actie",
+                    "english": "Anime Action"
+                },
+                "code": 2653,
+                "link": "https://www.netflix.com/browse/genre/2653"
+            },
+            {
+                "genre": {
+                    "dutch":"Anime Komedies",
+                    "english": "Anime Comedies"
+                },
+                "code": 9302,
+                "link": "https://www.netflix.com/browse/genre/9302"
+            },
+            {
+                "genre": {
+                    "dutch":"Anime Drama",
+                    "english": "Anime Dramas"
+                },
+                "code": 452,
+                "link": "https://www.netflix.com/browse/genre/452"
+            },
+            {
+                "genre": {
+                    "dutch":"Anime Algemeen",
+                    "english": "Anime Feature Films"
+                },
+                "code": 3063,
+                "link": "https://www.netflix.com/browse/genre/3063"
+            },
+            {
+                "genre": {
+                    "dutch":"Anime Sci-Fi",
+                    "english": "Anime Sci-Fi"
+                },
+                "code": 2729,
+                "link": "https://www.netflix.com/browse/genre/2729"
+            },
+            {
+                "genre": {
+                    "dutch":"Anime Horror",
+                    "english": "Anime Horror"
+                },
+                "code": 10695,
+                "link": "https://www.netflix.com/browse/genre/10695"
+            },
+            {
+                "genre": {
+                    "dutch":"Anime Fantasy",
+                    "english": "Anime Fantasies"
+                },
+                "code": 11146,
+                "link": "https://www.netflix.com/browse/genre/11146"
+            },
+            {
+                "genre": {
+                    "dutch":"Anime Series",
+                    "english": "Anime Series"
+                },
+                "code": 6721,
+                "link": "https://www.netflix.com/browse/genre/6721"
+            },
+            {
+                "genre": {
+                    "dutch":"Animatie voor volwassenen",
+                    "english": "Adult Animation"
+                },
+                "code": 11881,
+                "link": "https://www.netflix.com/browse/genre/11881"
             },
             {
                 "genre": {
