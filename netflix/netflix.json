@@ -179,14 +179,6 @@
             },
             {
                 "genre": {
-                    "dutch":"Animatie voor volwassenen",
-                    "english": "Adult Animation"
-                },
-                "code": 11881,
-                "link": "https://www.netflix.com/browse/genre/11881"
-            },
-            {
-                "genre": {
                     "dutch":"Kinder- en Familiefilms",
                     "english": "Children & Family Films"
                 },
@@ -376,8 +368,527 @@
                 },
                 "code": 26,
                 "link": "https://www.netflix.com/browse/genre/26"
-            }
-            
+            },
+            {
+                "genre": {
+                    "dutch":"Politieke Komedies",
+                    "english": "Political Comedies"
+                },
+                "code": 2700,
+                "link": "https://www.netflix.com/browse/genre/2700"
+            },
+            {
+                "genre": {
+                    "dutch":"Screwball Komedies",
+                    "english": "Screwball Comedies"
+                },
+                "code": 9702,
+                "link": "https://www.netflix.com/browse/genre/9702"
+            },
+            {
+                "genre": {
+                    "dutch":"Sport Komedies",
+                    "english": "Sports Comedies"
+                },
+                "code": 15286,
+                "link": "https://www.netflix.com/browse/genre/5286"
+            },
+            {
+                "genre": {
+                    "dutch":"Stand-up Komedie",
+                    "english": "Stand-up Comedy"
+                },
+                "code": 11559,
+                "link": "https://www.netflix.com/browse/genre/11559"
+            },
+            {
+                "genre": {
+                    "dutch":"Tiener Komedies",
+                    "english": "Teen Comedies"
+                },
+                "code": 3519,
+                "link": "https://www.netflix.com/browse/genre/3519"
+            },
+            {
+                "genre": {
+                    "dutch":"Satires",
+                    "english": "Spoofs & Satires"
+                },
+                "code": 4922,
+                "link": "https://www.netflix.com/browse/genre/4922"
+            },
+            {
+                "genre": {
+                    "dutch":"Romantische Komedies",
+                    "english": "Romantic Comedies"
+                },
+                "code": 5475,
+                "link": "https://www.netflix.com/browse/genre/5475"
+            },
+            {
+                "genre": {
+                    "dutch":"Slapstick Komedies",
+                    "english": "Slapstick Comedies"
+                },
+                "code": 10256,
+                "link": "https://www.netflix.com/browse/genre/10256"
+            },
+            {
+                "genre": {
+                    "dutch":"Cult Films",
+                    "english": "Cult Films"
+                },
+                "code": 7627,
+                "link": "https://www.netflix.com/browse/genre/7627"
+            },
+            {
+                "genre": {
+                    "dutch":"B-horror Films",
+                    "english": "B-Horror Films"
+                },
+                "code": 8195,
+                "link": "https://www.netflix.com/browse/genre/8195"
+            },
+            {
+                "genre": {
+                    "dutch":"Campy Films",
+                    "english": "Camp Films"
+                },
+                "code": 1252,
+                "link": "https://www.netflix.com/browse/genre/1252"
+            },
+            {
+                "genre": {
+                    "dutch":"Cult Horror Films",
+                    "english": "Cult Horror Films"
+                },
+                "code": 10944,
+                "link": "https://www.netflix.com/browse/genre/10944"
+            },
+            {
+                "genre": {
+                    "dutch":"Cult Sci-Fi & Fantasy films",
+                    "english": "Cult Sci-Fi & Fantasy films"
+                },
+                "code": 4734,
+                "link": "https://www.netflix.com/browse/genre/4734"
+            },
+            {
+                "genre": {
+                    "dutch":"Cult Komedies",
+                    "english": "Cult Comedies"
+                },
+                "code": 9434,
+                "link": "https://www.netflix.com/browse/genre/9434"
+            },
+            {
+                "genre": {
+                    "dutch":"Documentaires",
+                    "english": "Documentaries"
+                },
+                "code": 6839,
+                "link": "https://www.netflix.com/browse/genre/6839"
+            },
+            {
+                "genre": {
+                    "dutch":"Biografische Documentaires",
+                    "english": "Biographical Documentaries"
+                },
+                "code": 3652,
+                "link": "https://www.netflix.com/browse/genre/3652"
+            },
+            {
+                "genre": {
+                    "dutch":"Misdaad Documentaires",
+                    "english": "Crime Documentaries"
+                },
+                "code": 9875,
+                "link": "https://www.netflix.com/browse/genre/9875"
+            },
+            {
+                "genre": {
+                    "dutch":"Militaire documentaires",
+                    "english": "Military Documentaries"
+                },
+                "code": 4006,
+                "link": "https://www.netflix.com/browse/genre/4006"
+            },
+            {
+                "genre": {
+                    "dutch":"Muziek documentaires",
+                    "english": "Music & Concert Documentaries"
+                },
+                "code": 90361,
+                "link": "https://www.netflix.com/browse/genre/90361"
+            },
+            {
+                "genre": {
+                    "dutch":"Reis documentaires",
+                    "english": "Travel & Adventure Documentaries"
+                },
+                "code": 1159,
+                "link": "https://www.netflix.com/browse/genre/1159"
+            },
+            {
+                "genre": {
+                    "dutch":"Politieke documentaires",
+                    "english": "Political Documentaries"
+                },
+                "code": 7018,
+                "link": "https://www.netflix.com/browse/genre/7018"
+            },
+            {
+                "genre": {
+                    "dutch":"Wetenschappelijke documentaires",
+                    "english": "Science & Nature Documentaries"
+                },
+                "code": 2595,
+                "link": "https://www.netflix.com/browse/genre/2595"
+            },
+            {
+                "genre": {
+                    "dutch":"Sociale en Culturele documentaires",
+                    "english": "Social & Cultural Documentaries"
+                },
+                "code": 3675,
+                "link": "https://www.netflix.com/browse/genre/3675"
+            },
+            {
+                "genre": {
+                    "dutch":"Drama's",
+                    "english": "Dramas"
+                },
+                "code": 5763,
+                "link": "https://www.netflix.com/browse/genre/5763"
+            },
+            {
+                "genre": {
+                    "dutch":"Biografishe Drama's",
+                    "english": "Biographical Dramas"
+                },
+                "code": 3179,
+                "link": "https://www.netflix.com/browse/genre/3179"
+            },
+            {
+                "genre": {
+                    "dutch":"Misdaad Drama's",
+                    "english": "Crime Dramas"
+                },
+                "code": 6889,
+                "link": "https://www.netflix.com/browse/genre/6889"
+            },
+            {
+                "genre": {
+                    "dutch":"Drama's Gebaseerd op een Boek",
+                    "english": "Dramas Based on Books"
+                },
+                "code": 4961,
+                "link": "https://www.netflix.com/browse/genre/4961"
+            },
+            {
+                "genre": {
+                    "dutch":"Drama's Gebaseerd op een Waargebeurd Verhaal",
+                    "english": "Dramas Based on Real Life"
+                },
+                "code": 3653,
+                "link": "https://www.netflix.com/browse/genre/3653"
+            },
+            {
+                "genre": {
+                    "dutch":"Tranentrekkers",
+                    "english": "Tearjerkers"
+                },
+                "code": 6384,
+                "link": "https://www.netflix.com/browse/genre/6384"
+            },
+            {
+                "genre": {
+                    "dutch":"Homo en Lesbische Drama's",
+                    "english": "LGBTQ Dramas"
+                },
+                "code": 500,
+                "link": "https://www.netflix.com/browse/genre/500"
+            },
+            {
+                "genre": {
+                    "dutch":"Indie Drama's",
+                    "english": "Independent Dramas"
+                },
+                "code": 384,
+                "link": "https://www.netflix.com/browse/genre/384"
+            },
+            {
+                "genre": {
+                    "dutch":"Tiener Drama's",
+                    "english": "Teen Dramas"
+                },
+                "code": 9299,
+                "link": "https://www.netflix.com/browse/genre/9299"
+            },
+            {
+                "genre": {
+                    "dutch":"Militaire Drama's",
+                    "english": "Military Dramas"
+                },
+                "code": 11,
+                "link": "https://www.netflix.com/browse/genre/11"
+            },
+            {
+                "genre": {
+                    "dutch":"Periodische Drama's",
+                    "english": "Period Pieces"
+                },
+                "code": 12123,
+                "link": "https://www.netflix.com/browse/genre/12123"
+            },
+            {
+                "genre": {
+                    "dutch":"Politieke Drama's",
+                    "english": "Political Dramas"
+                },
+                "code": 6616,
+                "link": "https://www.netflix.com/browse/genre/6616"
+            },
+            {
+                "genre": {
+                    "dutch":"Romantische Drama's",
+                    "english": "Romantic Dramas"
+                },
+                "code": 1255,
+                "link": "https://www.netflix.com/browse/genre/1255"
+            },
+            {
+                "genre": {
+                    "dutch":"Showbizz Drama's",
+                    "english": "Showbiz Dramas"
+                },
+                "code": 5012,
+                "link": "https://www.netflix.com/browse/genre/5012"
+            },
+            {
+                "genre": {
+                    "dutch":"Sociale Drama's",
+                    "english": "Social Issue Dramas"
+                },
+                "code": 3947,
+                "link": "https://www.netflix.com/browse/genre/3947"
+            },
+            {
+                "genre": {
+                    "dutch":"Geloof en Spiritualiteit",
+                    "english": "Faith & Spirituality"
+                },
+                "code": 26835,
+                "link": "https://www.netflix.com/browse/genre/26835"
+            },
+            {
+                "genre": {
+                    "dutch":"Films over Geloof en Spiritualiteit",
+                    "english": "Faith & Spirituality Films"
+                },
+                "code": 52804,
+                "link": "https://www.netflix.com/browse/genre/52804"
+            },
+            {
+                "genre": {
+                    "dutch":"Spirituele Documentaires",
+                    "english": "Spiritual Documentaries"
+                },
+                "code": 2760,
+                "link": "https://www.netflix.com/browse/genre/2760"
+            },
+            {
+                "genre": {
+                    "dutch":"Kinderproducties over Geloof en Spiritualitet",
+                    "english": "Kids Faith & Spirituality"
+                },
+                "code": 751423,
+                "link": "https://www.netflix.com/browse/genre/751423"
+            },
+            {
+                "genre": {
+                    "dutch":"Art House Films",
+                    "english": "Art House Films"
+                },
+                "code": 29764,
+                "link": "https://www.netflix.com/browse/genre/29764"
+            },  
+            {
+                "genre": {
+                    "dutch":"Afrikaanse Films",
+                    "english": "African Films"
+                },
+                "code": 3761,
+                "link": "https://www.netflix.com/browse/genre/3761"
+            },  
+            {
+                "genre": {
+                    "dutch":"Australische Films",
+                    "english": "Australian Films"
+                },
+                "code": 5230,
+                "link": "https://www.netflix.com/browse/genre/5230"
+            },  
+            {
+                "genre": {
+                    "dutch":"Belgische Films",
+                    "english": "Belgian Films"
+                },
+                "code": 262,
+                "link": "https://www.netflix.com/browse/genre/262"
+            },
+            {
+                "genre": {
+                    "dutch":"Koreaanse Films",
+                    "english": "Korean Films"
+                },
+                "code": 5685,
+                "link": "https://www.netflix.com/browse/genre/5685"
+            },  
+            {
+                "genre": {
+                    "dutch":"Latijns-Amerikaanse Films",
+                    "english": "Latin American Films"
+                },
+                "code": 1613,
+                "link": "https://www.netflix.com/browse/genre/1613"
+            },  
+            {
+                "genre": {
+                    "dutch":"Midden-Oosterse Films",
+                    "english": "Middle-Eastern Films"
+                },
+                "code": 5875,
+                "link": "https://www.netflix.com/browse/genre/5875"
+            }, 
+            {
+                "genre": {
+                    "dutch":"Nieuw-Zeelandse Films",
+                    "english": "New Zealand Films"
+                },
+                "code": 63782,
+                "link": "https://www.netflix.com/browse/genre/63782"
+            },  
+            {
+                "genre": {
+                    "dutch":"Russische Films",
+                    "english": "Russian"
+                },
+                "code": 11567,
+                "link": "https://www.netflix.com/browse/genre/11567"
+            },  
+            {
+                "genre": {
+                    "dutch":"Scandinavische Films",
+                    "english": "Scandinavian Films"
+                },
+                "code": 9292,
+                "link": "https://www.netflix.com/browse/genre/9292"
+            },  
+            {
+                "genre": {
+                    "dutch":"Zuid-Oost-Aziatische Films",
+                    "english": "Southeast Asian Films"
+                },
+                "code": 9196,
+                "link": "https://www.netflix.com/browse/genre/9196"
+            },  
+            {
+                "genre": {
+                    "dutch":"Spaanse Films",
+                    "english": "Spanish Films"
+                },
+                "code": 58741,
+                "link": "https://www.netflix.com/browse/genre/58741"
+            },  
+            {
+                "genre": {
+                    "dutch":"Griekse Films",
+                    "english": "Greek Films"
+                },
+                "code": 61115,
+                "link": "https://www.netflix.com/browse/genre/61115"
+            },  
+            {
+                "genre": {
+                    "dutch":"Duitse Films",
+                    "english": "German Films"
+                },
+                "code": 58886,
+                "link": "https://www.netflix.com/browse/genre/58886"
+            },  
+            {
+                "genre": {
+                    "dutch":"Franse Films",
+                    "english": "French Films"
+                },
+                "code": 58807,
+                "link": "https://www.netflix.com/browse/genre/58807"
+            },  
+            {
+                "genre": {
+                    "dutch":"Oost-Europese Films",
+                    "english": "Eastern European Films"
+                },
+                "code": 5254,
+                "link": "https://www.netflix.com/browse/genre/5254"
+            },  
+            {
+                "genre": {
+                    "dutch":"Nederlandse Films",
+                    "english": "Dutch Films"
+                },
+                "code": 10606,
+                "link": "https://www.netflix.com/browse/genre/10606"
+            },  
+            {
+                "genre": {
+                    "dutch":"Ierse Films",
+                    "english": "Irish Films"
+                },
+                "code": 58750,
+                "link": "https://www.netflix.com/browse/genre/58750"
+            },  
+            {
+                "genre": {
+                    "dutch":"Japanse Films",
+                    "english": "Japanese Films"
+                },
+                "code": 10398,
+                "link": "https://www.netflix.com/browse/genre/10398"
+            },  
+            {
+                "genre": {
+                    "dutch":"Italiaanse Films",
+                    "english": "Italian Films"
+                },
+                "code": 8221,
+                "link": "https://www.netflix.com/browse/genre/8221"
+            },  
+            {
+                "genre": {
+                    "dutch":"Indiase Films",
+                    "english": "Indian Films"
+                },
+                "code": 10463,
+                "link": "https://www.netflix.com/browse/genre/10463"
+            },  
+            {
+                "genre": {
+                    "dutch":"Chinese Films",
+                    "english": "Chinese Films"
+                },
+                "code": 3960,
+                "link": "https://www.netflix.com/browse/genre/3960"
+            },  
+            {
+                "genre": {
+                    "dutch":"Britse Films",
+                    "english": "British Films"
+                },
+                "code": 10757,
+                "link": "https://www.netflix.com/browse/genre/10757"
+            }  
         ]
     }
 ]
