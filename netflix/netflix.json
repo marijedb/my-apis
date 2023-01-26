@@ -187,11 +187,67 @@
             },
             {
                 "genre": {
-                    "dutch":"test",
-                    "english": "test"
+                    "dutch":"Kinder- en Familiefilms",
+                    "english": "Children & Family Films"
                 },
-                "code": 1,
-                "link": "https://www.netflix.com/browse/genre/1"
+                "code": 783,
+                "link": "https://www.netflix.com/browse/genre/783"
+            },
+            {
+                "genre": {
+                    "dutch":"Educatief",
+                    "english": "Education & Guidance"
+                },
+                "code": 10659,
+                "link": "https://www.netflix.com/browse/genre/10659"
+            },
+            {
+                "genre": {
+                    "dutch":"Disney",
+                    "english": "Disney"
+                },
+                "code": 67673,
+                "link": "https://www.netflix.com/browse/genre/67673"
+            },
+            {
+                "genre": {
+                    "dutch":"Films gebaseerd op kinderboeken",
+                    "english": "Films Based on Children Books"
+                },
+                "code": 10056,
+                "link": "https://www.netflix.com/browse/genre/10056"
+            },
+            {
+                "genre": {
+                    "dutch":"Familiefilms",
+                    "english": "Family Features"
+                },
+                "code": 51056,
+                "link": "https://www.netflix.com/browse/genre/51056"
+            },
+            {
+                "genre": {
+                    "dutch":"Tekenfilms van Televisie",
+                    "english": "TV Cartoons"
+                },
+                "code": 11177,
+                "link": "https://www.netflix.com/browse/genre/11177"
+            },
+            {
+                "genre": {
+                    "dutch":"Kindertelevisie",
+                    "english": "Kids' TV"
+                },
+                "code": 27346,
+                "link": "https://www.netflix.com/browse/genre/27346"
+            },
+            {
+                "genre": {
+                    "dutch":"Kindermuziek",
+                    "english": "Kids' Music"
+                },
+                "code": 52843,
+                "link": "https://www.netflix.com/browse/genre/52843"
             }
             
         ]
