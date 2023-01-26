@@ -248,6 +248,134 @@
                 },
                 "code": 52843,
                 "link": "https://www.netflix.com/browse/genre/52843"
+            },
+            {
+                "genre": {
+                    "dutch":"Dierenverhalen",
+                    "english": "Animal Tales"
+                },
+                "code": 5507,
+                "link": "https://www.netflix.com/browse/genre/5507"
+            },
+            {
+                "genre": {
+                    "dutch":"Klassieke Films",
+                    "english": "Classic Films"
+                },
+                "code": 31574,
+                "link": "https://www.netflix.com/browse/genre/31574"
+            },
+            {
+                "genre": {
+                    "dutch":"Klassieke Komedies",
+                    "english": "Classic Comedies"
+                },
+                "code": 31694,
+                "link": "https://www.netflix.com/browse/genre/31694"
+            },
+            {
+                "genre": {
+                    "dutch":"Klassieke Drama’s",
+                    "english": "Classic Dramas"
+                },
+                "code": 29809,
+                "link": "https://www.netflix.com/browse/genre/29809"
+            },
+            {
+                "genre": {
+                    "dutch":"Klassieke Sci-Fi & Fantasy",
+                    "english": "Classic Sci-Fi & Fantasy"
+                },
+                "code": 47147,
+                "link": "https://www.netflix.com/browse/genre/47147"
+            },
+            {
+                "genre": {
+                    "dutch":"Klassieke Thrillers",
+                    "english": "Classic Thrillers"
+                },
+                "code": 46588,
+                "link": "https://www.netflix.com/browse/genre/46588"
+            },
+            {
+                "genre": {
+                    "dutch":"Film Noir",
+                    "english": "Film Noir"
+                },
+                "code": 7687,
+                "link": "https://www.netflix.com/browse/genre/7687"
+            },
+            {
+                "genre": {
+                    "dutch":"Klassieke Oorlogsfilms",
+                    "english": "Classic War Films"
+                },
+                "code": 48744,
+                "link": "https://www.netflix.com/browse/genre/48744"
+            },
+            {
+                "genre": {
+                    "dutch":"Epische Films",
+                    "english": "Epics"
+                },
+                "code": 52858,
+                "link": "https://www.netflix.com/browse/genre/52858"
+            },
+            {
+                "genre": {
+                    "dutch":"Klassieke Buitenlandse Film",
+                    "english": "Classic Foreign Movies"
+                },
+                "code": 32473,
+                "link": "https://www.netflix.com/browse/genre/32473"
+            },
+            {
+                "genre": {
+                    "dutch":"Stomme Films",
+                    "english": "Silent Films"
+                },
+                "code": 53310,
+                "link": "https://www.netflix.com/browse/genre/53310"
+            },
+            {
+                "genre": {
+                    "dutch":"Klassieke Westerns",
+                    "english": "Classic Westerns"
+                },
+                "code": 47465,
+                "link": "https://www.netflix.com/browse/genre/47465"
+            },
+            {
+                "genre": {
+                    "dutch":"Komedies",
+                    "english": "Comedies"
+                },
+                "code": 6548,
+                "link": "https://www.netflix.com/browse/genre/6548"
+            },
+            {
+                "genre": {
+                    "dutch":"Zwarte Komedies",
+                    "english": "Dark Comedies"
+                },
+                "code": 869,
+                "link": "https://www.netflix.com/browse/genre/869"
+            },
+            {
+                "genre": {
+                    "dutch":"Late Night Komedies",
+                    "english": "Late Night Comedies"
+                },
+                "code": 1402,
+                "link": "https://www.netflix.com/browse/genre/1402"
+            },
+            {
+                "genre": {
+                    "dutch":"Mockumentaries",
+                    "english": "Mockumentaries"
+                },
+                "code": 26,
+                "link": "https://www.netflix.com/browse/genre/26"
             }
             
         ]
