@@ -8,6 +8,7 @@
                 },
                 "code": 1365,
                 "link": "https://www.netflix.com/browse/genre/1365",
+                "isFavorite": false,
                 "id": "8a210fbc-fd57-4b92-9469-8c6cfedd5b3e"
             },
             {
@@ -17,6 +18,7 @@
                 },
                 "code": 77232,
                 "link": "https://www.netflix.com/browse/genre/77232",
+                "isFavorite": false,
                 "id": "3a353746-5298-4c9d-9b86-b2066a23fe19"
             },
             {
@@ -26,6 +28,7 @@
                 },
                 "code": 46576,
                 "link": "https://www.netflix.com/browse/genre/46576",
+                "isFavorite": false,
                 "id": "e8c708a4-d6c3-42d1-b3f9-7d7d5aa9c85c"
             },
             {
@@ -35,6 +38,7 @@
                 }, 
                 "code": 43040,
                 "link": "https://www.netflix.com/browse/genre/43040",
+                "isFavorite": false,
                 "id": "647cbf0a-e455-4492-a7ca-49a73cbaea70"
             },
             {
@@ -44,6 +48,7 @@
                 },
                 "code": 43048,
                 "link": "https://www.netflix.com/browse/genre/43048",
+                "isFavorite": false,
                 "id": "4f246c0f-3e08-45de-9e20-b94bbfa29fb9"
                 
             },
@@ -54,6 +59,7 @@
                 },
                 "code": 7442,
                 "link": "https://www.netflix.com/browse/genre/7442",
+                "isFavorite": false,
                 "id": "5fca036c-f0a0-4600-bf76-640704a959a7"
             },
             {
@@ -63,6 +69,7 @@
                 },
                 "code": 10118,
                 "link": "https://www.netflix.com/browse/genre/10118",
+                "isFavorite": false,
                 "id": "52cee7a8-061a-41a4-a74b-951a106d6fa4"
             },
             {
@@ -72,6 +79,7 @@
                 },
                 "code": 7700,
                 "link": "https://www.netflix.com/browse/genre/7700",
+                "isFavorite": false,
                 "id": "eb439f3d-96c7-4da4-9599-775573ad5533"
             },
             {
@@ -81,6 +89,7 @@
                 },
                 "code": 10702,
                 "link": "https://www.netflix.com/browse/genre/10702",
+                "isFavorite": false,
                 "id": "678c40d2-d117-4a93-92b6-91d96a4146a4"
             },
             {
@@ -90,6 +99,7 @@
                 },
                 "code": 9584,
                 "link": "https://www.netflix.com/browse/genre/9584",
+                "isFavorite": false,
                 "id": "44978e9d-30c4-472e-a49c-d2db0b42ad39"
             },
             {
@@ -99,6 +109,7 @@
                 },
                 "code": 8985,
                 "link": "https://www.netflix.com/browse/genre/8985",
+                "isFavorite": false,
                 "id": "d9079053-1b4f-45a6-8e61-64e70f0aedcb"
             },
             {
@@ -108,6 +119,7 @@
                 },
                 "code": 2125,
                 "link": "https://www.netflix.com/browse/genre/2125",
+                "isFavorite": false,
                 "id": "45b54240-1c60-4b74-b638-a15256ec47b9"
             },
             {
@@ -117,6 +129,7 @@
                 },
                 "code": 7424,
                 "link": "https://www.netflix.com/browse/genre/7424",
+                "isFavorite": false,
                 "id": "a8f5e9c4-9387-4de7-86db-323377ad1e0f"
             },
             {
@@ -126,6 +139,7 @@
                 },
                 "code": 11881,
                 "link": "https://www.netflix.com/browse/genre/11881",
+                "isFavorite": false,
                 "id": "c3357909-9737-4efd-a9b3-e7c16fc0df7d"
             },
             {
@@ -135,6 +149,7 @@
                 },
                 "code": 2653,
                 "link": "https://www.netflix.com/browse/genre/2653",
+                "isFavorite": false,
                 "id": "bdce3727-1151-4283-9b53-498b1e757cff"
             },
             {
@@ -144,6 +159,7 @@
                 },
                 "code": 9302,
                 "link": "https://www.netflix.com/browse/genre/9302",
+                "isFavorite": false,
                 "id": "817b13ec-a5e5-4acf-a372-4908d035f09d"
             },
             {
@@ -153,6 +169,7 @@
                 },
                 "code": 452,
                 "link": "https://www.netflix.com/browse/genre/452",
+                "isFavorite": false,
                 "id": "dfaa4115-78c4-4323-be15-57af7852309d"
             },
             {
@@ -162,6 +179,7 @@
                 },
                 "code": 3063,
                 "link": "https://www.netflix.com/browse/genre/3063",
+                "isFavorite": false,
                 "id": "9e03e7b1-6f45-4582-92c8-5167ce3d48d2"
             },
             {
@@ -171,6 +189,7 @@
                 },
                 "code": 2729,
                 "link": "https://www.netflix.com/browse/genre/2729",
+                "isFavorite": false,
                 "id": "2dd0e6e6-31ea-4ab0-90a7-128451f14a55"
             },
             {
@@ -180,6 +199,7 @@
                 },
                 "code": 10695,
                 "link": "https://www.netflix.com/browse/genre/10695",
+                "isFavorite": false,
                 "id": "8fc64307-1424-440a-803c-0fb87f0d5cfe"
             },
             {
@@ -189,6 +209,7 @@
                 },
                 "code": 11146,
                 "link": "https://www.netflix.com/browse/genre/11146",
+                "isFavorite": false,
                 "id": "02f91a52-d036-4599-b964-fbee6bae2906"
             },
             {
@@ -198,6 +219,7 @@
                 },
                 "code": 6721,
                 "link": "https://www.netflix.com/browse/genre/6721",
+                "isFavorite": false,
                 "id": "7fdfdee9-f35c-4bcb-b7df-68f29aeed2f0"
             },
             {
@@ -207,6 +229,7 @@
                 },
                 "code": 783,
                 "link": "https://www.netflix.com/browse/genre/783",
+                "isFavorite": false,
                 "id": "50c77441-9c7e-4b2b-8a20-96ed226eb731"
             },
             {
@@ -216,6 +239,7 @@
                 },
                 "code": 10659,
                 "link": "https://www.netflix.com/browse/genre/10659",
+                "isFavorite": false,
                 "id": "0bf1075c-271b-4a7b-a63b-cf8e0f0849e0"
             },
             {
@@ -225,6 +249,7 @@
                 },
                 "code": 67673,
                 "link": "https://www.netflix.com/browse/genre/67673",
+                "isFavorite": false,
                 "id": "be302fa1-649a-464a-813e-c1cd83dfeab7"
             },
             {
@@ -234,6 +259,7 @@
                 },
                 "code": 10056,
                 "link": "https://www.netflix.com/browse/genre/10056",
+                "isFavorite": false,
                 "id": "c6b0ef20-4396-468c-a9da-d6b9a49638d6"
             },
             {
@@ -243,6 +269,7 @@
                 },
                 "code": 51056,
                 "link": "https://www.netflix.com/browse/genre/51056",
+                "isFavorite": false,
                 "id": "0fafc492-0434-432b-bba2-be77d6c3a4b3"
             },
             {
@@ -252,6 +279,7 @@
                 },
                 "code": 11177,
                 "link": "https://www.netflix.com/browse/genre/11177",
+                "isFavorite": false,
                 "id": "56410af0-fcf6-4fdd-9b8c-2c6e0b3479f4"
             },
             {
@@ -261,6 +289,7 @@
                 },
                 "code": 27346,
                 "link": "https://www.netflix.com/browse/genre/27346",
+                "isFavorite": false,
                 "id": "c479538e-b1d0-4b0d-8268-0f3c5b893413"
             },
             {
@@ -270,6 +299,7 @@
                 },
                 "code": 52843,
                 "link": "https://www.netflix.com/browse/genre/52843",
+                "isFavorite": false,
                 "id": "0663d775-a1c8-45a3-8172-47a68f0eca58"
             },
             {
@@ -279,6 +309,7 @@
                 },
                 "code": 5507,
                 "link": "https://www.netflix.com/browse/genre/5507",
+                "isFavorite": false,
                 "id": "be0c42b2-e51e-46b0-9374-fd35bbfc605b"
             },
             {
@@ -288,6 +319,7 @@
                 },
                 "code": 31574,
                 "link": "https://www.netflix.com/browse/genre/31574",
+                "isFavorite": false,
                 "id": "4748df53-2943-446a-8a49-bdb81e2d1820"
             },
             {
@@ -297,6 +329,7 @@
                 },
                 "code": 31694,
                 "link": "https://www.netflix.com/browse/genre/31694",
+                "isFavorite": false,
                 "id": "d64770d1-b912-46e9-afe9-53e61eed1a8e"
             },
             {
@@ -306,6 +339,7 @@
                 },
                 "code": 29809,
                 "link": "https://www.netflix.com/browse/genre/29809",
+                "isFavorite": false,
                 "id": "7d2132c8-7fdf-44eb-a2f5-906def0eb93d"
             },
             {
@@ -315,6 +349,7 @@
                 },
                 "code": 47147,
                 "link": "https://www.netflix.com/browse/genre/47147",
+                "isFavorite": false,
                 "id": "1905f119-9775-4186-a091-09cd84ecc930"
             },
             {
@@ -324,6 +359,7 @@
                 },
                 "code": 46588,
                 "link": "https://www.netflix.com/browse/genre/46588",
+                "isFavorite": false,
                 "id": "31a35f39-1231-405b-aea9-be9e946c613f"
             },
             {
@@ -333,6 +369,7 @@
                 },
                 "code": 7687,
                 "link": "https://www.netflix.com/browse/genre/7687",
+                "isFavorite": false,
                 "id": "8878ad0f-5fd0-4e41-b806-70da34bd7bd7"
             },
             {
@@ -342,6 +379,7 @@
                 },
                 "code": 48744,
                 "link": "https://www.netflix.com/browse/genre/48744",
+                "isFavorite": false,
                 "id": "47cf0c1c-5952-4b7f-be3d-6aa311aa4445"
             },
             {
@@ -351,6 +389,7 @@
                 },
                 "code": 52858,
                 "link": "https://www.netflix.com/browse/genre/52858",
+                "isFavorite": false,
                 "id": "8f8d55d3-f0fd-487e-857b-fd724f1e12ca"
             },
             {
@@ -360,6 +399,7 @@
                 },
                 "code": 32473,
                 "link": "https://www.netflix.com/browse/genre/32473",
+                "isFavorite": false,
                 "id": "202f702d-5543-4cf7-9da2-95a66a791bf9"
             },
             {
@@ -369,6 +409,7 @@
                 },
                 "code": 53310,
                 "link": "https://www.netflix.com/browse/genre/53310",
+                "isFavorite": false,
                 "id": "16b317eb-cd13-4908-bd5f-17848d481995"
             },
             {
@@ -378,6 +419,7 @@
                 },
                 "code": 47465,
                 "link": "https://www.netflix.com/browse/genre/47465",
+                "isFavorite": false,
                 "id": "9e9c4d94-4bbd-432f-aa30-5c0b99bb357a"
             },
             {
@@ -387,6 +429,7 @@
                 },
                 "code": 6548,
                 "link": "https://www.netflix.com/browse/genre/6548",
+                "isFavorite": false,
                 "id": "9c22a226-9945-4324-9381-9eb8bf1c485c"
             },
             {
@@ -396,6 +439,7 @@
                 },
                 "code": 869,
                 "link": "https://www.netflix.com/browse/genre/869",
+                "isFavorite": false,
                 "id": "201a886e-c8eb-4698-8c0c-e49aaf2c2bec"
             },
             {
@@ -405,6 +449,7 @@
                 },
                 "code": 1402,
                 "link": "https://www.netflix.com/browse/genre/1402",
+                "isFavorite": false,
                 "id": "2299655e-2048-44cd-a095-813190418ef2"
             },
             {
@@ -414,6 +459,7 @@
                 },
                 "code": 26,
                 "link": "https://www.netflix.com/browse/genre/26",
+                "isFavorite": false,
                 "id": "5a78cda6-65a0-468f-be3f-2c8e7a8fb514"
             },
             {
@@ -423,6 +469,7 @@
                 },
                 "code": 2700,
                 "link": "https://www.netflix.com/browse/genre/2700",
+                "isFavorite": false,
                 "id": "3dc3c1e1-b77a-41ac-b43c-caa3c951b3b3"
             },
             {
@@ -432,6 +479,7 @@
                 },
                 "code": 9702,
                 "link": "https://www.netflix.com/browse/genre/9702",
+                "isFavorite": false,
                 "id": "0acbb26a-1531-46a0-8a75-06ac4359382b"
             },
             {
@@ -441,6 +489,7 @@
                 },
                 "code": 15286,
                 "link": "https://www.netflix.com/browse/genre/5286",
+                "isFavorite": false,
                 "id": "06a7e1c1-e7dc-4213-8db8-55b444499390"
             },
             {
@@ -450,6 +499,7 @@
                 },
                 "code": 11559,
                 "link": "https://www.netflix.com/browse/genre/11559",
+                "isFavorite": false,
                 "id": "d4953bf6-bb8b-4984-8d2e-e245b9aaff48"
             },
             {
@@ -459,6 +509,7 @@
                 },
                 "code": 3519,
                 "link": "https://www.netflix.com/browse/genre/3519",
+                "isFavorite": false,
                 "id": "3fe109f1-686e-4d47-935a-42f5b8ac5bf8"
             },
             {
@@ -468,6 +519,7 @@
                 },
                 "code": 4922,
                 "link": "https://www.netflix.com/browse/genre/4922",
+                "isFavorite": false,
                 "id": "e22b9d24-f9d0-4936-9f95-c11206e9121e"
             },
             {
@@ -477,6 +529,7 @@
                 },
                 "code": 5475,
                 "link": "https://www.netflix.com/browse/genre/5475",
+                "isFavorite": false,
                 "id": "372e12ba-b3d6-439f-985e-220df6f00c37"
             },
             {
@@ -486,6 +539,7 @@
                 },
                 "code": 10256,
                 "link": "https://www.netflix.com/browse/genre/10256",
+                "isFavorite": false,
                 "id": "6a616547-9313-4d43-85d2-15075d0016db"
             },
             {
@@ -495,6 +549,7 @@
                 },
                 "code": 7627,
                 "link": "https://www.netflix.com/browse/genre/7627",
+                "isFavorite": false,
                 "id": "d6f5f009-84f9-49dc-b538-fbca13c0968d"
             },
             {
@@ -504,6 +559,7 @@
                 },
                 "code": 8195,
                 "link": "https://www.netflix.com/browse/genre/8195",
+                "isFavorite": false,
                 "id": "bb053368-6dad-44c5-924b-27c1a6edebeb"
             },
             {
@@ -513,6 +569,7 @@
                 },
                 "code": 1252,
                 "link": "https://www.netflix.com/browse/genre/1252",
+                "isFavorite": false,
                 "id": "207f7983-8748-4359-a27d-73dcc65f3dde"
             },
             {
@@ -522,6 +579,7 @@
                 },
                 "code": 10944,
                 "link": "https://www.netflix.com/browse/genre/10944",
+                "isFavorite": false,
                 "id": "b06f77ab-0817-4487-9168-9a24fe94eb10"
             },
             {
@@ -531,6 +589,7 @@
                 },
                 "code": 4734,
                 "link": "https://www.netflix.com/browse/genre/4734",
+                "isFavorite": false,
                 "id": "0baa6564-3033-4e75-95bc-23544c580559"
             },
             {
@@ -540,6 +599,7 @@
                 },
                 "code": 9434,
                 "link": "https://www.netflix.com/browse/genre/9434",
+                "isFavorite": false,
                 "id": "a8d8c674-74cb-4bfb-9d8b-5542c27eef74"
             },
             {
@@ -549,6 +609,7 @@
                 },
                 "code": 6839,
                 "link": "https://www.netflix.com/browse/genre/6839",
+                "isFavorite": false,
                 "id": "bfbd1702-f39c-4340-8c45-d54d6df49a02"
             },
             {
@@ -558,6 +619,7 @@
                 },
                 "code": 3652,
                 "link": "https://www.netflix.com/browse/genre/3652",
+                "isFavorite": false,
                 "id": "272b5d8d-8d4d-421c-ae3e-1037936657e4"
             },
             {
@@ -567,6 +629,7 @@
                 },
                 "code": 9875,
                 "link": "https://www.netflix.com/browse/genre/9875",
+                "isFavorite": false,
                 "id": "03cbd8c9-af5b-4042-9386-1174601f86c1"
             },
             {
@@ -576,6 +639,7 @@
                 },
                 "code": 4006,
                 "link": "https://www.netflix.com/browse/genre/4006",
+                "isFavorite": false,
                 "id": "025b5b9a-2239-4da4-bc6f-4ac5240bc095"
             },
             {
@@ -585,6 +649,7 @@
                 },
                 "code": 90361,
                 "link": "https://www.netflix.com/browse/genre/90361",
+                "isFavorite": false,
                 "id": "bbd4ccba-20b9-488b-b30d-466163b75639"
             },
             {
@@ -594,6 +659,7 @@
                 },
                 "code": 1159,
                 "link": "https://www.netflix.com/browse/genre/1159",
+                "isFavorite": false,
                 "id": "6ff94d63-060d-4830-a838-8cb2dd9172e3"
             },
             {
@@ -603,6 +669,7 @@
                 },
                 "code": 7018,
                 "link": "https://www.netflix.com/browse/genre/7018",
+                "isFavorite": false,
                 "id": "faf56ba6-2b5b-4c2b-afdc-ce58d69b6c0d"
             },
             {
@@ -612,6 +679,7 @@
                 },
                 "code": 2595,
                 "link": "https://www.netflix.com/browse/genre/2595",
+                "isFavorite": false,
                 "id": "7a8c7d83-5f30-4fd8-8a32-00da972347c7"
             },
             {
@@ -621,6 +689,7 @@
                 },
                 "code": 3675,
                 "link": "https://www.netflix.com/browse/genre/3675",
+                "isFavorite": false,
                 "id": "a97c0267-11b6-4924-8b85-433dcfac60ed"
             },
             {
@@ -630,6 +699,7 @@
                 },
                 "code": 5763,
                 "link": "https://www.netflix.com/browse/genre/5763",
+                "isFavorite": false,
                 "id": "2c210349-8834-44cc-8110-6f0e152f1a5b"
             },
             {
@@ -639,6 +709,7 @@
                 },
                 "code": 3179,
                 "link": "https://www.netflix.com/browse/genre/3179",
+                "isFavorite": false,
                 "id": "a3f06f20-216c-434e-86a3-3bb3320fcc24"
             },
             {
@@ -648,6 +719,7 @@
                 },
                 "code": 6889,
                 "link": "https://www.netflix.com/browse/genre/6889",
+                "isFavorite": false,
                 "id": "69c1ff1d-337a-4b40-bdac-981ba06c4f12"
             },
             {
@@ -657,6 +729,7 @@
                 },
                 "code": 4961,
                 "link": "https://www.netflix.com/browse/genre/4961",
+                "isFavorite": false,
                 "id": "399722e8-8153-4996-a015-ec06bdb3dd8f"
             },
             {
@@ -666,6 +739,7 @@
                 },
                 "code": 3653,
                 "link": "https://www.netflix.com/browse/genre/3653",
+                "isFavorite": false,
                 "id": "4769c673-5980-48af-9dce-bb7c730d624a"
             },
             {
@@ -675,6 +749,7 @@
                 },
                 "code": 6384,
                 "link": "https://www.netflix.com/browse/genre/6384",
+                "isFavorite": false,
                 "id": "4518b4ce-b2e4-476a-bce5-d6178c72b690"
             },
             {
@@ -684,6 +759,7 @@
                 },
                 "code": 500,
                 "link": "https://www.netflix.com/browse/genre/500",
+                "isFavorite": false,
                 "id": "e3a2c488-47d2-4eca-85a0-6a7eb231552f"
             },
             {
@@ -693,6 +769,7 @@
                 },
                 "code": 384,
                 "link": "https://www.netflix.com/browse/genre/384",
+                "isFavorite": false,
                 "id": "75ae436b-b7dc-4297-8887-ff48b2e62893"
             },
             {
@@ -702,6 +779,7 @@
                 },
                 "code": 9299,
                 "link": "https://www.netflix.com/browse/genre/9299",
+                "isFavorite": false,
                 "id": "d93b16ed-72f4-477a-b33d-671e88a24143"
             },
             {
@@ -711,6 +789,7 @@
                 },
                 "code": 11,
                 "link": "https://www.netflix.com/browse/genre/11",
+                "isFavorite": false,
                 "id": "e6be43ae-fa61-4b5e-8160-69723610c2b6"
             },
             {
@@ -720,6 +799,7 @@
                 },
                 "code": 12123,
                 "link": "https://www.netflix.com/browse/genre/12123",
+                "isFavorite": false,
                 "id": "2d62c5dd-45d3-402c-a39d-10afe5b6051d"
             },
             {
@@ -729,6 +809,7 @@
                 },
                 "code": 6616,
                 "link": "https://www.netflix.com/browse/genre/6616",
+                "isFavorite": false,
                 "id": "c0360148-f40c-4ca5-9532-74f5eb3cb023"
             },
             {
@@ -738,6 +819,7 @@
                 },
                 "code": 1255,
                 "link": "https://www.netflix.com/browse/genre/1255",
+                "isFavorite": false,
                 "id": "092433a5-1334-4a59-a599-34860e065324"
             },
             {
@@ -747,6 +829,7 @@
                 },
                 "code": 5012,
                 "link": "https://www.netflix.com/browse/genre/5012",
+                "isFavorite": false,
                 "id": "cbfbfcc4-3f49-4522-9271-c3563fd624a2"
             },
             {
@@ -756,6 +839,7 @@
                 },
                 "code": 3947,
                 "link": "https://www.netflix.com/browse/genre/3947",
+                "isFavorite": false,
                 "id": "ea5f1873-a201-4c48-bdf5-b736c33ea809"
             },
             {
@@ -765,6 +849,7 @@
                 },
                 "code": 26835,
                 "link": "https://www.netflix.com/browse/genre/26835",
+                "isFavorite": false,
                 "id": "2adaafdb-6d2c-4fae-ab9c-da476ca08730"
             },
             {
@@ -774,6 +859,7 @@
                 },
                 "code": 52804,
                 "link": "https://www.netflix.com/browse/genre/52804",
+                "isFavorite": false,
                 "id": "7cb44e23-7867-4db9-8128-fe5f43cb5a55"
             },
             {
@@ -783,6 +869,7 @@
                 },
                 "code": 2760,
                 "link": "https://www.netflix.com/browse/genre/2760",
+                "isFavorite": false,
                 "id": "f49c4442-7b67-4d06-b415-75b07ee11390"
             },
             {
@@ -792,6 +879,7 @@
                 },
                 "code": 751423,
                 "link": "https://www.netflix.com/browse/genre/751423",
+                "isFavorite": false,
                 "id": "e9b18056-625b-49cd-8042-07af3023e6b0"
             },
             {
@@ -801,6 +889,7 @@
                 },
                 "code": 29764,
                 "link": "https://www.netflix.com/browse/genre/29764",
+                "isFavorite": false,
                 "id": "d5b174fa-4c6d-4d22-b59a-b94de5be9424"
             },  
             {
@@ -810,6 +899,7 @@
                 },
                 "code": 3761,
                 "link": "https://www.netflix.com/browse/genre/3761",
+                "isFavorite": false,
                 "id": "c277b334-b779-498f-b413-a725f394a6b8"
             },  
             {
@@ -819,6 +909,7 @@
                 },
                 "code": 5230,
                 "link": "https://www.netflix.com/browse/genre/5230",
+                "isFavorite": false,
                 "id": "310d637f-7906-4838-ad70-4d4eb4939385"
             },  
             {
@@ -828,6 +919,7 @@
                 },
                 "code": 262,
                 "link": "https://www.netflix.com/browse/genre/262",
+                "isFavorite": false,
                 "id": "3ca9e014-f5f1-467b-be01-b38c287a0bec"
             },
             {
@@ -837,6 +929,7 @@
                 },
                 "code": 5685,
                 "link": "https://www.netflix.com/browse/genre/5685",
+                "isFavorite": false,
                 "id": "f8416d93-bf41-4b2f-925f-aaad975957f4"
             },  
             {
@@ -846,6 +939,7 @@
                 },
                 "code": 1613,
                 "link": "https://www.netflix.com/browse/genre/1613",
+                "isFavorite": false,
                 "id": "5302b228-685b-4715-9845-d53a0334d5cf"
             },  
             {
@@ -855,6 +949,7 @@
                 },
                 "code": 5875,
                 "link": "https://www.netflix.com/browse/genre/5875",
+                "isFavorite": false,
                 "id": "ba861319-c6a7-483f-abd0-06e0723385cc"
             }, 
             {
@@ -864,6 +959,7 @@
                 },
                 "code": 63782,
                 "link": "https://www.netflix.com/browse/genre/63782",
+                "isFavorite": false,
                 "id": "d471b49c-252c-450b-a86a-5b0d4ff5b532"
             },  
             {
@@ -873,6 +969,7 @@
                 },
                 "code": 11567,
                 "link": "https://www.netflix.com/browse/genre/11567",
+                "isFavorite": false,
                 "id": "9e1e2a2b-36a4-42b8-acda-0092017ff4ce"
             },  
             {
@@ -882,6 +979,7 @@
                 },
                 "code": 9292,
                 "link": "https://www.netflix.com/browse/genre/9292",
+                "isFavorite": false,
                 "id": "635c1b1e-c40d-4cd6-9ed1-88aabdd185ad"
             },  
             {
@@ -891,6 +989,7 @@
                 },
                 "code": 9196,
                 "link": "https://www.netflix.com/browse/genre/9196",
+                "isFavorite": false,
                 "id": "44d39f0b-6c46-43fe-af7e-4273b3e3c86e"
             },  
             {
@@ -900,6 +999,7 @@
                 },
                 "code": 58741,
                 "link": "https://www.netflix.com/browse/genre/58741",
+                "isFavorite": false,
                 "id": "e112b9af-5116-49bb-a965-549c40a800ad"
             },  
             {
@@ -909,6 +1009,7 @@
                 },
                 "code": 61115,
                 "link": "https://www.netflix.com/browse/genre/61115",
+                "isFavorite": false,
                 "id": "8b829dae-ca19-46d6-ac2b-b5c69c66cff9"
             },  
             {
@@ -918,6 +1019,7 @@
                 },
                 "code": 58886,
                 "link": "https://www.netflix.com/browse/genre/58886",
+                "isFavorite": false,
                 "id": "c31018ee-52cb-417f-8db7-79b06ba17ce1"
             },  
             {
@@ -927,6 +1029,7 @@
                 },
                 "code": 58807,
                 "link": "https://www.netflix.com/browse/genre/58807",
+                "isFavorite": false,
                 "id": "582b2e61-edfa-41ae-946b-7644e2e2d02c"
             },  
             {
@@ -936,6 +1039,7 @@
                 },
                 "code": 5254,
                 "link": "https://www.netflix.com/browse/genre/5254",
+                "isFavorite": false,
                 "id": "19b8ba8b-7ad1-46ff-b35e-a608ebd5bc37"
             },  
             {
@@ -945,6 +1049,7 @@
                 },
                 "code": 10606,
                 "link": "https://www.netflix.com/browse/genre/10606",
+                "isFavorite": false,
                 "id": "250e8ffa-397e-4d07-bcb2-8b352c6acfdd"
             },  
             {
@@ -954,6 +1059,7 @@
                 },
                 "code": 58750,
                 "link": "https://www.netflix.com/browse/genre/58750",
+                "isFavorite": false,
                 "id": "6e12c89b-0414-4d87-abcb-5b000d1aeb50"
             },  
             {
@@ -963,6 +1069,7 @@
                 },
                 "code": 10398,
                 "link": "https://www.netflix.com/browse/genre/10398",
+                "isFavorite": false,
                 "id": "d945c706-63ce-48d7-9c84-907d2dd400f2"
             },  
             {
@@ -972,6 +1079,7 @@
                 },
                 "code": 8221,
                 "link": "https://www.netflix.com/browse/genre/8221",
+                "isFavorite": false,
                 "id": "9f0c006b-b7fe-49a8-a358-ab8bea13b60f"
             },  
             {
@@ -981,6 +1089,7 @@
                 },
                 "code": 10463,
                 "link": "https://www.netflix.com/browse/genre/10463",
+                "isFavorite": false,
                 "id": "d84bd708-b9bb-4545-8069-ebd6ec679f8a"
             },  
             {
@@ -990,6 +1099,7 @@
                 },
                 "code": 3960,
                 "link": "https://www.netflix.com/browse/genre/3960",
+                "isFavorite": false,
                 "id": "dfa325b7-7db0-49ab-8861-ee369e778f1e"
             },  
             {
@@ -999,6 +1109,7 @@
                 },
                 "code": 10757,
                 "link": "https://www.netflix.com/browse/genre/10757",
+                "isFavorite": false,
                 "id": "2f2926c7-4e41-408d-a6a6-2b2e921d0f1e"
             },  
             {
@@ -1008,6 +1119,7 @@
                 },
                 "code": 5977,
                 "link": "https://www.netflix.com/browse/genre/5977",
+                "isFavorite": false,
                 "id": "a70f89bc-7937-4ac1-885c-35d81cf56684"
             },  
             {
@@ -1017,6 +1129,7 @@
                 },
                 "code": 7120,
                 "link": "https://www.netflix.com/browse/genre/7120",
+                "isFavorite": false,
                 "id": "a7decce6-7ad7-4e12-90d7-88d19bb53cdc"
             },  
             {
@@ -1026,6 +1139,7 @@
                 },
                 "code": 3329,
                 "link": "https://www.netflix.com/browse/genre/3329",
+                "isFavorite": false,
                 "id": "8c504019-785c-4743-9695-6c5001e82f3c"
             },  
             {
@@ -1035,6 +1149,7 @@
                 },
                 "code": 4720,
                 "link": "https://www.netflix.com/browse/genre/4720",
+                "isFavorite": false,
                 "id": "e6a14a8a-992e-452e-980b-8df9562b3613"
             },  
             {
@@ -1044,6 +1159,7 @@
                 },
                 "code": 65263,
                 "link": "https://www.netflix.com/browse/genre/65263",
+                "isFavorite": false,
                 "id": "cb3f0ef6-1bf7-4236-b614-91cd9526583c"
             },  
             {
@@ -1053,6 +1169,7 @@
                 },
                 "code": 8711,
                 "link": "https://www.netflix.com/browse/genre/8711",
+                "isFavorite": false,
                 "id": "94a6ee3b-43ad-484b-84b3-f801399fc0c1"
             },  
             {
@@ -1062,6 +1179,7 @@
                 },
                 "code": 42023,
                 "link": "https://www.netflix.com/browse/genre/42023",
+                "isFavorite": false,
                 "id": "44066746-d1af-411f-99c4-a01917557c98"
             },  
             {
@@ -1071,6 +1189,7 @@
                 },
                 "code": 52147,
                 "link": "https://www.netflix.com/browse/genre/52147",
+                "isFavorite": false,
                 "id": "8eafe066-6447-46b0-a557-093af7cf5378"
             },  
             {
@@ -1080,6 +1199,7 @@
                 },
                 "code": 75804,
                 "link": "https://www.netflix.com/browse/genre/75804",
+                "isFavorite": false,
                 "id": "4cb07df2-1418-45e5-8c4b-c10b91331d02"
             },  
             {
@@ -1089,6 +1209,7 @@
                 },
                 "code": 75930,
                 "link": "https://www.netflix.com/browse/genre/75930",
+                "isFavorite": false,
                 "id": "227d11ce-858e-47a4-ba91-5a2cdcad6fb2"
             },  
             {
@@ -1098,6 +1219,7 @@
                 },
                 "code": 75405,
                 "link": "https://www.netflix.com/browse/genre/75405",
+                "isFavorite": false,
                 "id": "bca73dc5-4943-4a86-854a-3e23d39be62e"
             },  
             {
@@ -1107,6 +1229,7 @@
                 },
                 "code": 6998,
                 "link": "https://www.netflix.com/browse/genre/6998",
+                "isFavorite": false,
                 "id": "0bc2f242-df68-4a17-a293-7acca382e777"
             },  
             {
@@ -1116,6 +1239,7 @@
                 },
                 "code": 7077,
                 "link": "https://www.netflix.com/browse/genre/7077",
+                "isFavorite": false,
                 "id": "88341830-f310-48ad-bc72-8c02715c9dc6"
             },  
             {
@@ -1125,6 +1249,7 @@
                 },
                 "code": 11079,
                 "link": "https://www.netflix.com/browse/genre/11079",
+                "isFavorite": false,
                 "id": "bd3cae6f-6aa5-43df-a9ee-fd61942f19bd"
             },  
             {
@@ -1134,6 +1259,7 @@
                 },
                 "code": 11804,
                 "link": "https://www.netflix.com/browse/genre/11804",
+                "isFavorite": false,
                 "id": "60e190cd-2010-46e9-97c3-fc2009bc1126"
             },  
             {
@@ -1143,6 +1269,7 @@
                 },
                 "code": 3269,
                 "link": "https://www.netflix.com/browse/genre/3269",
+                "isFavorite": false,
                 "id": "08e85cec-003a-4a01-aa8a-0ca2e055791e"
             },  
             {
@@ -1152,6 +1279,7 @@
                 },
                 "code": 9916,
                 "link": "https://www.netflix.com/browse/genre/9916",
+                "isFavorite": false,
                 "id": "7087c521-411b-489e-ba39-c998cb92c2ad"
             },  
             {
@@ -1161,6 +1289,7 @@
                 },
                 "code": 4195,
                 "link": "https://www.netflix.com/browse/genre/4195",
+                "isFavorite": false,
                 "id": "d93e601e-9ed8-4147-8089-646c722c5623"
             },  
             {
@@ -1170,6 +1299,7 @@
                 },
                 "code": 1701,
                 "link": "https://www.netflix.com/browse/genre/1701",
+                "isFavorite": false,
                 "id": "58102803-5289-4bb9-b0a8-acd00c51682b"
             },  
             {
@@ -1179,6 +1309,7 @@
                 },
                 "code": 10741,
                 "link": "https://www.netflix.com/browse/genre/10741",
+                "isFavorite": false,
                 "id": "b4dd52dc-e6f3-4342-a683-e21b1a735595"
             },  
             {
@@ -1188,6 +1319,7 @@
                 },
                 "code": 2856,
                 "link": "https://www.netflix.com/browse/genre/2856",
+                "isFavorite": false,
                 "id": "9332dbd5-faf9-47d7-b45a-d46d391e3560"
             },  
             {
@@ -1197,6 +1329,7 @@
                 },
                 "code": 13335,
                 "link": "https://www.netflix.com/browse/genre/13335",
+                "isFavorite": false,
                 "id": "e6c532ab-8a5d-4696-97f7-992ae0fac669"
             },  
             {
@@ -1206,6 +1339,7 @@
                 },
                 "code": 32392,
                 "link": "https://www.netflix.com/browse/genre/32392",
+                "isFavorite": false,
                 "id": "48f6faad-1c52-4378-b091-b5c27410ba0c"
             },  
             {
@@ -1215,6 +1349,7 @@
                 },
                 "code": 59433,
                 "link": "https://www.netflix.com/browse/genre/59433",
+                "isFavorite": false,
                 "id": "da4a5fb1-2376-4cd3-903a-f9a608460127"
             },  
             {
@@ -1224,6 +1359,7 @@
                 },
                 "code": 13573,
                 "link": "https://www.netflix.com/browse/genre/13573",
+                "isFavorite": false,
                 "id": "8a95c58f-ed70-404b-860e-e734ed018334"
             },  
             {
@@ -1233,6 +1369,7 @@
                 },
                 "code": 55774,
                 "link": "https://www.netflix.com/browse/genre/55774",
+                "isFavorite": false,
                 "id": "b9d4a7af-2e88-4614-bb36-e33a3898e589"
             },  
             {
@@ -1242,6 +1379,7 @@
                 },
                 "code": 8883,
                 "link": "https://www.netflix.com/browse/genre/8883",
+                "isFavorite": false,
                 "id": "95bd9566-fee8-4229-874d-cadc51e6d08c"
             },  
             {
@@ -1251,6 +1389,7 @@
                 },
                 "code": 502675,
                 "link": "https://www.netflix.com/browse/genre/502675",
+                "isFavorite": false,
                 "id": "c0b00c67-df4d-4cd3-ac6e-17d1af08a80c"
             },  
             {
@@ -1260,6 +1399,7 @@
                 },
                 "code": 36103,
                 "link": "https://www.netflix.com/browse/genre/36103",
+                "isFavorite": false,
                 "id": "00e3c89b-54d4-44a7-93e6-24b816bae295"
             },  
             {
@@ -1269,6 +1409,7 @@
                 },
                 "code": 35800,
                 "link": "https://www.netflix.com/browse/genre/35800",
+                "isFavorite": false,
                 "id": "6241cf3f-1fcd-4d9e-97bf-258de460b5d7"
             },  
             {
@@ -1278,6 +1419,7 @@
                 },
                 "code": 31273,
                 "link": "https://www.netflix.com/browse/genre/31273",
+                "isFavorite": false,
                 "id": "619ffcda-e8dc-4551-832d-556820cf6397"
             },  
             {
@@ -1287,6 +1429,7 @@
                 },
                 "code": 1492,
                 "link": "https://www.netflix.com/browse/genre/1492",
+                "isFavorite": false,
                 "id": "1b12a074-960a-4388-9d43-f69e87c01e0f"
             },  
             {
@@ -1296,6 +1439,7 @@
                 },
                 "code": 1568,
                 "link": "https://www.netflix.com/browse/genre/1568",
+                "isFavorite": false,
                 "id": "c4b976b1-eebe-4c65-b562-88cbdf3e79f9"
             },  
             {
@@ -1305,6 +1449,7 @@
                 },
                 "code": 3327,
                 "link": "https://www.netflix.com/browse/genre/3327",
+                "isFavorite": false,
                 "id": "16fbc8af-8e21-494a-8d8e-0d55388c9427"
             },  
             {
@@ -1314,6 +1459,7 @@
                 },
                 "code": 47147,
                 "link": "https://www.netflix.com/browse/genre/47147",
+                "isFavorite": false,
                 "id": "18cc303a-2d05-4b8b-b639-58e0f6c9c78b"
             },  
             {
@@ -1323,6 +1469,7 @@
                 },
                 "code": 9744,
                 "link": "https://www.netflix.com/browse/genre/9744",
+                "isFavorite": false,
                 "id": "42c0f2b1-c7ac-4ece-a226-36b20bfd0272"
             },  
             {
@@ -1332,6 +1479,7 @@
                 },
                 "code": 6926,
                 "link": "https://www.netflix.com/browse/genre/6926",
+                "isFavorite": false,
                 "id": "bbf8fa1b-6ef6-4535-bfb7-03491aaec93a"
             },  
             {
@@ -1341,6 +1489,7 @@
                 },
                 "code": 3916,
                 "link": "https://www.netflix.com/browse/genre/3916",
+                "isFavorite": false,
                 "id": "afed9f4d-0afd-4a9c-a425-9e30453d010c"
             },  
             {
@@ -1350,6 +1499,7 @@
                 },
                 "code": 1694,
                 "link": "https://www.netflix.com/browse/genre/1694",
+                "isFavorite": false,
                 "id": "30f6620e-2a31-4feb-aadb-02f716b292f0"
             },  
             {
@@ -1359,6 +1509,7 @@
                 },
                 "code": 11014,
                 "link": "https://www.netflix.com/browse/genre/11014",
+                "isFavorite": false,
                 "id": "b6e1a7a3-6a04-49b5-bb1a-95ff91168e0f"
             },  
             {
@@ -1368,6 +1519,7 @@
                 },
                 "code": 4370,
                 "link": "https://www.netflix.com/browse/genre/4370",
+                "isFavorite": false,
                 "id": "e1bed626-b73b-4b24-a55b-5a743740d80f"
             },  
             {
@@ -1377,6 +1529,7 @@
                 },
                 "code": 12339,
                 "link": "https://www.netflix.com/browse/genre/12339",
+                "isFavorite": false,
                 "id": "1363b515-6824-46b4-99b6-0b8f08ecf57e"
             },  
             {
@@ -1386,6 +1539,7 @@
                 },
                 "code": 12443,
                 "link": "https://www.netflix.com/browse/genre/12443",
+                "isFavorite": false,
                 "id": "caed951c-d348-4531-87f7-a25201702887"
             },  
             {
@@ -1395,6 +1549,7 @@
                 },
                 "code": 12549,
                 "link": "https://www.netflix.com/browse/genre/12549",
+                "isFavorite": false,
                 "id": "b3fd1242-1477-490d-8758-5879d9467c30"
             },  
             {
@@ -1404,6 +1559,7 @@
                 },
                 "code": 6695,
                 "link": "https://www.netflix.com/browse/genre/6695",
+                "isFavorite": false,
                 "id": "11cfc136-97bd-4cf6-bd39-f77fc903729d"
             },  
             {
@@ -1413,6 +1569,7 @@
                 },
                 "code": 12762,
                 "link": "https://www.netflix.com/browse/genre/12762",
+                "isFavorite": false,
                 "id": "e57c0e35-c7f5-4167-ac12-094f37b4cc82"
             },  
             {
@@ -1422,6 +1579,7 @@
                 },
                 "code": 9327,
                 "link": "https://www.netflix.com/browse/genre/9327",
+                "isFavorite": false,
                 "id": "1218f808-a26a-4202-8f01-ff33c4933af9"
             },  
             {
@@ -1431,6 +1589,7 @@
                 },
                 "code": 8933,
                 "link": "https://www.netflix.com/browse/genre/8933",
+                "isFavorite": false,
                 "id": "72b3e55f-6b7e-46fd-b6ee-c3a99c3f1852"
             },  
             {
@@ -1440,6 +1599,7 @@
                 },
                 "code": 10499,
                 "link": "https://www.netflix.com/browse/genre/10499",
+                "isFavorite": false,
                 "id": "d34045ac-870c-428c-80e3-06469794dc5e"
             },  
             {
@@ -1449,6 +1609,7 @@
                 },
                 "code": 31851,
                 "link": "https://www.netflix.com/browse/genre/31851",
+                "isFavorite": false,
                 "id": "fe09933a-68b9-4c73-b678-0e1dfca2f6bb"
             },  
             {
@@ -1458,6 +1619,7 @@
                 },
                 "code": 5505,
                 "link": "https://www.netflix.com/browse/genre/5505",
+                "isFavorite": false,
                 "id": "a76cd884-50f8-4ea8-b378-7405ba5d67e4"
             },  
             {
@@ -1467,6 +1629,7 @@
                 },
                 "code": 9994,
                 "link": "https://www.netflix.com/browse/genre/9994",
+                "isFavorite": false,
                 "id": "37ffae27-6554-466c-8615-170f1d9ef777"
             },  
             {
@@ -1476,6 +1639,7 @@
                 },
                 "code": 9147,
                 "link": "https://www.netflix.com/browse/genre/9147",
+                "isFavorite": false,
                 "id": "4b7814bd-b84f-41b4-8e81-6fbebf36b814"
             },  
             {
@@ -1485,6 +1649,7 @@
                 },
                 "code": 972,
                 "link": "https://www.netflix.com/browse/genre/972",
+                "isFavorite": false,
                 "id": "a27d7589-1660-40f2-8627-bda536354636"
             },  
             {
@@ -1494,6 +1659,7 @@
                 },
                 "code": 11140,
                 "link": "https://www.netflix.com/browse/genre/11140",
+                "isFavorite": false,
                 "id": "d0f95a9b-7bfb-4edb-915b-8f39140de2be"
             },  
             {
@@ -1503,6 +1669,7 @@
                 },
                 "code": 83,
                 "link": "https://www.netflix.com/browse/genre/83",
+                "isFavorite": false,
                 "id": "fe7982dc-eb02-4296-bdc1-841997ebc5a3"
             },  
             {
@@ -1512,6 +1679,7 @@
                 },
                 "code": 52117,
                 "link": "https://www.netflix.com/browse/genre/52117",
+                "isFavorite": false,
                 "id": "9c23fa68-5ea8-4470-9840-2dd368065717"
             },  
             {
@@ -1521,6 +1689,7 @@
                 },
                 "code": 46553,
                 "link": "https://www.netflix.com/browse/genre/46553",
+                "isFavorite": false,
                 "id": "fa772fee-59e8-4725-85c7-c81d3d7ae686"
             },  
             {
@@ -1530,6 +1699,7 @@
                 },
                 "code": 26146,
                 "link": "https://www.netflix.com/browse/genre/26146",
+                "isFavorite": false,
                 "id": "7aa02d36-8232-4bf0-a2d2-9bf3ef25aaa7"
             },  
             {
@@ -1539,6 +1709,7 @@
                 },
                 "code": 74652,
                 "link": "https://www.netflix.com/browse/genre/74652",
+                "isFavorite": false,
                 "id": "9ce11ed8-a71b-4740-9165-f82262a37951"
             },  
             {
@@ -1548,6 +1719,7 @@
                 },
                 "code": 72436,
                 "link": "https://www.netflix.com/browse/genre/72436",
+                "isFavorite": false,
                 "id": "489f2bc1-e8d4-4c43-944a-75009fabaebb"
             },  
             {
@@ -1557,6 +1729,7 @@
                 },
                 "code": 67879,
                 "link": "https://www.netflix.com/browse/genre/67879",
+                "isFavorite": false,
                 "id": "43ce6bf6-240e-4a10-bd11-a87a8abdd205"
             },  
             {
@@ -1566,6 +1739,7 @@
                 },
                 "code": 4814,
                 "link": "https://www.netflix.com/browse/genre/4814",
+                "isFavorite": false,
                 "id": "38a33b71-1de1-4faa-9103-d066e47fb18d"
             },  
             {
@@ -1575,15 +1749,18 @@
                 },
                 "code": 25804,
                 "link": "https://www.netflix.com/browse/genre/25804",
+                "isFavorite": false,
                 "id": "6f1edeb2-8ede-4366-baba-f71f2b03c0f0"
             },  
             {
                 "genre": {
                     "dutch": "Series over Natuur en Wetenschap",
+                    "isFavorite": false,
                     "english": "Science & Nature TV"
                 },
                 "code": 52780,
                 "link": "https://www.netflix.com/browse/genre/52780",
+                "isFavorite": false,
                 "id": "5d315096-ccb4-4603-a98f-29018ca827ce"
             },  
             {
@@ -1593,6 +1770,7 @@
                 },
                 "code": 10673,
                 "link": "https://www.netflix.com/browse/genre/10673",
+                "isFavorite": false,
                 "id": "1b0468cc-c9db-4ebe-8216-14a65bed292e"
             },  
             {
@@ -1602,6 +1780,7 @@
                 },
                 "code": 10375,
                 "link": "https://www.netflix.com/browse/genre/10375",
+                "isFavorite": false,
                 "id": "6119828a-9615-4fee-a208-0f96f3cab61c"
             },  
             {
@@ -1611,6 +1790,7 @@
                 },
                 "code": 10105,
                 "link": "https://www.netflix.com/browse/genre/10105",
+                "isFavorite": false,
                 "id": "dba76fce-ce23-4d2f-ba3b-a01b3173a85d"
             },  
             {
@@ -1620,6 +1800,7 @@
                 },
                 "code": 11714,
                 "link": "https://www.netflix.com/browse/genre/11714",
+                "isFavorite": false,
                 "id": "4ff72237-77d7-4eef-9eed-5cf28bf49d9e"
             },  
             {
@@ -1629,6 +1810,7 @@
                 },
                 "code": 83059,
                 "link": "https://www.netflix.com/browse/genre/83059",
+                "isFavorite": false,
                 "id": "36f960c3-555c-4fbd-8aec-2e3969a13e36"
             },  
             {
@@ -1638,6 +1820,7 @@
                 },
                 "code": 4366,
                 "link": "https://www.netflix.com/browse/genre/4366",
+                "isFavorite": false,
                 "id": "b1dd517f-642d-44f9-a9e3-b8412f1564da"
             },  
             {
@@ -1647,6 +1830,7 @@
                 },
                 "code": 1372,
                 "link": "https://www.netflix.com/browse/genre/1372",
+                "isFavorite": false,
                 "id": "6a65e2a9-274c-4712-8d24-3ddc857b6ea3"
             },  
             {
@@ -1656,6 +1840,7 @@
                 },
                 "code": 9833,
                 "link": "https://www.netflix.com/browse/genre/9833",
+                "isFavorite": false,
                 "id": "577d5c0e-4784-4198-a9cd-3dac4d318779"
             },  
             {
@@ -1665,6 +1850,7 @@
                 },
                 "code": 60951,
                 "link": "https://www.netflix.com/browse/genre/60951",
+                "isFavorite": false,
                 "id": "6847cd1a-f162-474f-bc0b-994016e12856"
             }  
         ]
