@@ -1011,8 +1011,8 @@
             },  
             {
                 "genre": {
-                    "dutch":"Indie Actie en Avontuur",
-                    "english": "Independent Thriller"
+                    "dutch":"Indie Thrillers",
+                    "english": "Independent Thrillers"
                 },
                 "code": 3269,
                 "link": "https://www.netflix.com/browse/genre/3269"
@@ -1160,6 +1160,326 @@
                 },
                 "code": 3327,
                 "link": "https://www.netflix.com/browse/genre/3327"
+            },  
+            {
+                "genre": {
+                    "dutch":"Klassieke Sci-Fi & Fantasy",
+                    "english": "Classic Sci-Fi & Fantasy"
+                },
+                "code": 47147,
+                "link": "https://www.netflix.com/browse/genre/47147"
+            },  
+            {
+                "genre": {
+                    "dutch":"Fantasy Films",
+                    "english": "Fantasy"
+                },
+                "code": 9744,
+                "link": "https://www.netflix.com/browse/genre/9744"
+            },  
+            {
+                "genre": {
+                    "dutch":"Sci-Fi Avontuur",
+                    "english": "Sci-Fi Adventure"
+                },
+                "code": 6926,
+                "link": "https://www.netflix.com/browse/genre/6926"
+            },  
+            {
+                "genre": {
+                    "dutch":"Sci-Fi Drama's",
+                    "english": "Sci-Fi Dramas"
+                },
+                "code": 3916,
+                "link": "https://www.netflix.com/browse/genre/3916"
+            },  
+            {
+                "genre": {
+                    "dutch":"Sci-Fi Horror Films",
+                    "english": "Sci-Fi Horror Films"
+                },
+                "code": 1694,
+                "link": "https://www.netflix.com/browse/genre/1694"
+            },  
+            {
+                "genre": {
+                    "dutch":"Sci-Fi Thrillers",
+                    "english": "Sci-Fi Thrillers"
+                },
+                "code": 11014,
+                "link": "https://www.netflix.com/browse/genre/11014"
+            },  
+            {
+                "genre": {
+                    "dutch":"Sports Films",
+                    "english": "Sports Films"
+                },
+                "code": 4370,
+                "link": "https://www.netflix.com/browse/genre/4370"
+            },  
+            {
+                "genre": {
+                    "dutch":"Honkbal Films",
+                    "english": "Baseball Films"
+                },
+                "code": 12339,
+                "link": "https://www.netflix.com/browse/genre/12339"
+            },  
+            {
+                "genre": {
+                    "dutch":"Boks Films",
+                    "english": "Boxing Films"
+                },
+                "code": 12443,
+                "link": "https://www.netflix.com/browse/genre/12443"
+            },  
+            {
+                "genre": {
+                    "dutch":"Voetbal Films",
+                    "english": "Football Films"
+                },
+                "code": 12549,
+                "link": "https://www.netflix.com/browse/genre/12549"
+            },  
+            {
+                "genre": {
+                    "dutch":"Martial Arts, Boksen en worstelen",
+                    "english": "Martial Arts, Boxing & Wrestling"
+                },
+                "code": 6695,
+                "link": "https://www.netflix.com/browse/genre/6695"
+            },  
+            {
+                "genre": {
+                    "dutch":"Basketbal Films",
+                    "english": "Basketball Films"
+                },
+                "code": 12762,
+                "link": "https://www.netflix.com/browse/genre/12762"
+            },  
+            {
+                "genre": {
+                    "dutch":"Sport en Fitness",
+                    "english": "Sport & Fitness"
+                },
+                "code": 9327,
+                "link": "https://www.netflix.com/browse/genre/9327"
+            },  
+            {
+                "genre": {
+                    "dutch":"Thrillers",
+                    "english": "Thrillers"
+                },
+                "code": 8933,
+                "link": "https://www.netflix.com/browse/genre/8933"
+            },  
+            {
+                "genre": {
+                    "dutch":"Misdaad Thrillers",
+                    "english": "Crime Thrillers"
+                },
+                "code": 10499,
+                "link": "https://www.netflix.com/browse/genre/10499"
+            },  
+            {
+                "genre": {
+                    "dutch":"Gangster Films",
+                    "english": "Gangster Films"
+                },
+                "code": 31851,
+                "link": "https://www.netflix.com/browse/genre/31851"
+            },  
+            {
+                "genre": {
+                    "dutch":"Psychologische Thrillers",
+                    "english": "Psychological Thrillers"
+                },
+                "code": 5505,
+                "link": "https://www.netflix.com/browse/genre/5505"
+            },  
+            {
+                "genre": {
+                    "dutch":"Mysterieuze Thrillers",
+                    "english": "Mysteries"
+                },
+                "code": 9994,
+                "link": "https://www.netflix.com/browse/genre/9994"
+            },  
+            {
+                "genre": {
+                    "dutch":"Spionage Thrillers",
+                    "english": "Spy Thrillers"
+                },
+                "code": 9147,
+                "link": "https://www.netflix.com/browse/genre/9147"
+            },  
+            {
+                "genre": {
+                    "dutch":"Stomende Thrillers",
+                    "english": "Steamy Thrillers"
+                },
+                "code": 972,
+                "link": "https://www.netflix.com/browse/genre/972"
+            },  
+            {
+                "genre": {
+                    "dutch":"Bovennatuurlijke Thrillers",
+                    "english": "Supernatural Thrillers"
+                },
+                "code": 11140,
+                "link": "https://www.netflix.com/browse/genre/11140"
+            },  
+            {
+                "genre": {
+                    "dutch":"TV Series",
+                    "english": "Series"
+                },
+                "code": 83,
+                "link": "https://www.netflix.com/browse/genre/83"
+            },  
+            {
+                "genre": {
+                    "dutch":"Britse TV Series",
+                    "english": "British Programmes"
+                },
+                "code": 52117,
+                "link": "https://www.netflix.com/browse/genre/52117"
+            },  
+            {
+                "genre": {
+                    "dutch":"Klassieke TV Series",
+                    "english": "Classic TV Programmes"
+                },
+                "code": 46553,
+                "link": "https://www.netflix.com/browse/genre/46553"
+            },  
+            {
+                "genre": {
+                    "dutch":"Misdaad Series",
+                    "english": "Crime Programmes"
+                },
+                "code": 26146,
+                "link": "https://www.netflix.com/browse/genre/26146"
+            },  
+            {
+                "genre": {
+                    "dutch":"Cult TV Series",
+                    "english": "Cult TV Programmes"
+                },
+                "code": 74652,
+                "link": "https://www.netflix.com/browse/genre/74652"
+            },  
+            {
+                "genre": {
+                    "dutch": "Series over Eten en Reizen",
+                    "english": "Food & Travel TV"
+                },
+                "code": 72436,
+                "link": "https://www.netflix.com/browse/genre/72436"
+            },  
+            {
+                "genre": {
+                    "dutch": "Koreaanse TV Series",
+                    "english": "Korean Programmes"
+                },
+                "code": 67879,
+                "link": "https://www.netflix.com/browse/genre/67879"
+            },  
+            {
+                "genre": {
+                    "dutch": "Miniseries",
+                    "english": "Miniseries"
+                },
+                "code": 4814,
+                "link": "https://www.netflix.com/browse/genre/4814"
+            },  
+            {
+                "genre": {
+                    "dutch": "Militaire Series",
+                    "english": "Military TV Programmes"
+                },
+                "code": 25804,
+                "link": "https://www.netflix.com/browse/genre/25804"
+            },  
+            {
+                "genre": {
+                    "dutch": "Series over Natuur en Wetenschap",
+                    "english": "Science & Nature TV"
+                },
+                "code": 52780,
+                "link": "https://www.netflix.com/browse/genre/52780"
+            },  
+            {
+                "genre": {
+                    "dutch": "Actie- en Avonturenseries",
+                    "english": "Action & Adventure Programmes"
+                },
+                "code": 10673,
+                "link": "https://www.netflix.com/browse/genre/10673"
+            },  
+            {
+                "genre": {
+                    "dutch": "Komedie Series",
+                    "english": "Comedy Programmes"
+                },
+                "code": 10375,
+                "link": "https://www.netflix.com/browse/genre/10375"
+            },  
+            {
+                "genre": {
+                    "dutch": "Documentaire Series",
+                    "english": "Docuseries"
+                },
+                "code": 10105,
+                "link": "https://www.netflix.com/browse/genre/10105"
+            },  
+            {
+                "genre": {
+                    "dutch": "Drama Series",
+                    "english": "Drama Programmes"
+                },
+                "code": 11714,
+                "link": "https://www.netflix.com/browse/genre/11714"
+            },  
+            {
+                "genre": {
+                    "dutch": "Horror Series",
+                    "english": "Horror Programmes"
+                },
+                "code": 83059,
+                "link": "https://www.netflix.com/browse/genre/83059"
+            },  
+            {
+                "genre": {
+                    "dutch": "Mystieke Series",
+                    "english": "Mystery Programmes"
+                },
+                "code": 4366,
+                "link": "https://www.netflix.com/browse/genre/4366"
+            },  
+            {
+                "genre": {
+                    "dutch": "Sci-Fi en Fantasy Series",
+                    "english": "Sci-Fi & Fantasy Programmes"
+                },
+                "code": 1372,
+                "link": "https://www.netflix.com/browse/genre/1372"
+            },  
+            {
+                "genre": {
+                    "dutch": "Reality Series",
+                    "english": "Reality TV"
+                },
+                "code": 9833,
+                "link": "https://www.netflix.com/browse/genre/9833"
+            },  
+            {
+                "genre": {
+                    "dutch": "Tiener Series",
+                    "english": "Teen Programmes"
+                },
+                "code": 60951,
+                "link": "https://www.netflix.com/browse/genre/60951"
             }  
         ]
     }
