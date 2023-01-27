@@ -888,6 +888,278 @@
                 },
                 "code": 10757,
                 "link": "https://www.netflix.com/browse/genre/10757"
+            },  
+            {
+                "genre": {
+                    "dutch":"Films over Homo's en Lesbiennes",
+                    "english": "LGBTQ Films"
+                },
+                "code": 5977,
+                "link": "https://www.netflix.com/browse/genre/5977"
+            },  
+            {
+                "genre": {
+                    "dutch":"Komedies over Homo's en Lesbiennes",
+                    "english": "LGBTQ Comedies"
+                },
+                "code": 7120,
+                "link": "https://www.netflix.com/browse/genre/7120"
+            },  
+            {
+                "genre": {
+                    "dutch":"Romantische Films over Homo's en Lesbiennes",
+                    "english": "Romantic LGBTQ Films"
+                },
+                "code": 3329,
+                "link": "https://www.netflix.com/browse/genre/3329"
+            },  
+            {
+                "genre": {
+                    "dutch":"Documentaires over Homo's en Lesbiennes",
+                    "english": "Gay & Lesbian Documentaries"
+                },
+                "code": 4720,
+                "link": "https://www.netflix.com/browse/genre/4720"
+            },  
+            {
+                "genre": {
+                    "dutch":"Televisieseries over Homo's en Lesbiennes",
+                    "english": "LGBTQ TV Programmes"
+                },
+                "code": 65263,
+                "link": "https://www.netflix.com/browse/genre/65263"
+            },  
+            {
+                "genre": {
+                    "dutch":"Horror Films",
+                    "english": "Horror Films"
+                },
+                "code": 8711,
+                "link": "https://www.netflix.com/browse/genre/8711"
+            },  
+            {
+                "genre": {
+                    "dutch":"Bovennatuurlijke Horror Films",
+                    "english": "Supernatural Horror Films"
+                },
+                "code": 42023,
+                "link": "https://www.netflix.com/browse/genre/42023"
+            },  
+            {
+                "genre": {
+                    "dutch":"Teen Screams",
+                    "english": "Teen Screams"
+                },
+                "code": 52147,
+                "link": "https://www.netflix.com/browse/genre/52147"
+            },  
+            {
+                "genre": {
+                    "dutch":"Vampieren Films",
+                    "english": "Vampire Horror Films"
+                },
+                "code": 75804,
+                "link": "https://www.netflix.com/browse/genre/75804"
+            },  
+            {
+                "genre": {
+                    "dutch":"Weerwolven Films",
+                    "english": "Werewolf Horror Films"
+                },
+                "code": 75930,
+                "link": "https://www.netflix.com/browse/genre/75930"
+            },  
+            {
+                "genre": {
+                    "dutch":"Zombie Films",
+                    "english": "Zombie Horror Films"
+                },
+                "code": 75405,
+                "link": "https://www.netflix.com/browse/genre/75405"
+            },  
+            {
+                "genre": {
+                    "dutch":"Satanische Films",
+                    "english": "Satanic Stories"
+                },
+                "code": 6998,
+                "link": "https://www.netflix.com/browse/genre/6998"
+            },  
+            {
+                "genre": {
+                    "dutch":"Indie Films / Onafhankelijke Films",
+                    "english": "Independent Films"
+                },
+                "code": 7077,
+                "link": "https://www.netflix.com/browse/genre/7077"
+            },  
+            {
+                "genre": {
+                    "dutch":"Experimentele Films",
+                    "english": "Experimental Films"
+                },
+                "code": 11079,
+                "link": "https://www.netflix.com/browse/genre/11079"
+            },  
+            {
+                "genre": {
+                    "dutch":"Indie Actie en Avontuur",
+                    "english": "Independent Action & Adventure"
+                },
+                "code": 11804,
+                "link": "https://www.netflix.com/browse/genre/11804"
+            },  
+            {
+                "genre": {
+                    "dutch":"Indie Actie en Avontuur",
+                    "english": "Independent Thriller"
+                },
+                "code": 3269,
+                "link": "https://www.netflix.com/browse/genre/3269"
+            },  
+            {
+                "genre": {
+                    "dutch":"Indie Romantiek",
+                    "english": "Romantic Independent Films"
+                },
+                "code": 9916,
+                "link": "https://www.netflix.com/browse/genre/9916"
+            },  
+            {
+                "genre": {
+                    "dutch":"Indie Komedie",
+                    "english": "Independent Comedies"
+                },
+                "code": 4195,
+                "link": "https://www.netflix.com/browse/genre/4195"
+            },  
+            {
+                "genre": {
+                    "dutch":"Muziek",
+                    "english": "Music"
+                },
+                "code": 1701,
+                "link": "https://www.netflix.com/browse/genre/1701"
+            },  
+            {
+                "genre": {
+                    "dutch":"Latin Muziek",
+                    "english": "Latin Music"
+                },
+                "code": 10741,
+                "link": "https://www.netflix.com/browse/genre/10741"
+            },  
+            {
+                "genre": {
+                    "dutch":"Wereldmuziek",
+                    "english": "World Music"
+                },
+                "code": 2856,
+                "link": "https://www.netflix.com/browse/genre/2856"
+            },  
+            {
+                "genre": {
+                    "dutch":"Musicals",
+                    "english": "Musicals"
+                },
+                "code": 13335,
+                "link": "https://www.netflix.com/browse/genre/13335"
+            },  
+            {
+                "genre": {
+                    "dutch":"Klassieke Musicals",
+                    "english": "Classic Musicals"
+                },
+                "code": 32392,
+                "link": "https://www.netflix.com/browse/genre/32392"
+            },  
+            {
+                "genre": {
+                    "dutch":"Disney Musicals",
+                    "english": "Disney Musicals"
+                },
+                "code": 59433,
+                "link": "https://www.netflix.com/browse/genre/59433"
+            },  
+            {
+                "genre": {
+                    "dutch":"Showbizz Musicals",
+                    "english": "Showbiz Musicals"
+                },
+                "code": 13573,
+                "link": "https://www.netflix.com/browse/genre/13573"
+            },  
+            {
+                "genre": {
+                    "dutch":"Stage Musicals",
+                    "english": "Stage Musicals"
+                },
+                "code": 55774,
+                "link": "https://www.netflix.com/browse/genre/55774"
+            },  
+            {
+                "genre": {
+                    "dutch":"Romantische FIlms",
+                    "english": "Romantic Films"
+                },
+                "code": 8883,
+                "link": "https://www.netflix.com/browse/genre/8883"
+            },  
+            {
+                "genre": {
+                    "dutch":"Romantische Favorieten",
+                    "english": "Romantic Favourites"
+                },
+                "code": 502675,
+                "link": "https://www.netflix.com/browse/genre/502675"
+            },  
+            {
+                "genre": {
+                    "dutch":"Quirky Romantiek Films",
+                    "english": "Quirky Romance"
+                },
+                "code": 36103,
+                "link": "https://www.netflix.com/browse/genre/36103"
+            },  
+            {
+                "genre": {
+                    "dutch":"Stomende Romantiek Films",
+                    "english": "Steamy Romance"
+                },
+                "code": 35800,
+                "link": "https://www.netflix.com/browse/genre/35800"
+            },  
+            {
+                "genre": {
+                    "dutch":"Klassieke Romantiek Films",
+                    "english": "Classic Romantic Films"
+                },
+                "code": 31273,
+                "link": "https://www.netflix.com/browse/genre/31273"
+            },  
+            {
+                "genre": {
+                    "dutch":"Sci-Fi & Fantasy",
+                    "english": "Sci-Fi & Fantasy"
+                },
+                "code": 1492,
+                "link": "https://www.netflix.com/browse/genre/1492"
+            },  
+            {
+                "genre": {
+                    "dutch":"Actie Sci-Fi & Fantasy",
+                    "english": "Action Sci-Fi & Fantasy"
+                },
+                "code": 1568,
+                "link": "https://www.netflix.com/browse/genre/1568"
+            },  
+            {
+                "genre": {
+                    "dutch":"Alien Sci-Fi",
+                    "english": "Alien Sci-Fi"
+                },
+                "code": 3327,
+                "link": "https://www.netflix.com/browse/genre/3327"
             }  
         ]
     }
