@@ -7,7 +7,8 @@
                     "english": "Action & Adventure"
                 },
                 "code": 1365,
-                "link": "https://www.netflix.com/browse/genre/1365"
+                "link": "https://www.netflix.com/browse/genre/1365",
+                "id": "8a210fbc-fd57-4b92-9469-8c6cfedd5b3e"
             },
             {
                 "genre": {
@@ -15,7 +16,8 @@
                     "english": "Asian Action Films"
                 },
                 "code": 77232,
-                "link": "https://www.netflix.com/browse/genre/77232"
+                "link": "https://www.netflix.com/browse/genre/77232",
+                "id": "3a353746-5298-4c9d-9b86-b2066a23fe19"
             },
             {
                 "genre": {
@@ -23,7 +25,8 @@
                     "english": "Classic Action & Adventure"
                 },
                 "code": 46576,
-                "link": "https://www.netflix.com/browse/genre/46576"
+                "link": "https://www.netflix.com/browse/genre/46576",
+                "id": "e8c708a4-d6c3-42d1-b3f9-7d7d5aa9c85c"
             },
             {
                 "genre": {
@@ -31,7 +34,8 @@
                     "english": "Action Comedies"
                 }, 
                 "code": 43040,
-                "link": "https://www.netflix.com/browse/genre/43040"
+                "link": "https://www.netflix.com/browse/genre/43040",
+                "id": "647cbf0a-e455-4492-a7ca-49a73cbaea70"
             },
             {
                 "genre": {
@@ -39,7 +43,9 @@
                     "english": "Action Thrillers"
                 },
                 "code": 43048,
-                "link": "https://www.netflix.com/browse/genre/43048"
+                "link": "https://www.netflix.com/browse/genre/43048",
+                "id": "4f246c0f-3e08-45de-9e20-b94bbfa29fb9"
+                
             },
             {
                 "genre": {
@@ -47,7 +53,8 @@
                     "english": "Adventures"
                 },
                 "code": 7442,
-                "link": "https://www.netflix.com/browse/genre/7442"
+                "link": "https://www.netflix.com/browse/genre/7442",
+                "id": "5fca036c-f0a0-4600-bf76-640704a959a7"
             },
             {
                 "genre": {
@@ -55,7 +62,8 @@
                     "english": "Comic Book and Superhero Films"
                 },
                 "code": 10118,
-                "link": "https://www.netflix.com/browse/genre/10118"
+                "link": "https://www.netflix.com/browse/genre/10118",
+                "id": "52cee7a8-061a-41a4-a74b-951a106d6fa4"
             },
             {
                 "genre": {
@@ -63,7 +71,8 @@
                     "english": "Westerns"
                 },
                 "code": 7700,
-                "link": "https://www.netflix.com/browse/genre/7700"
+                "link": "https://www.netflix.com/browse/genre/7700",
+                "id": "eb439f3d-96c7-4da4-9599-775573ad5533"
             },
             {
                 "genre": {
@@ -71,7 +80,8 @@
                     "english": "Spy Action & Adventure"
                 },
                 "code": 10702,
-                "link": "https://www.netflix.com/browse/genre/10702"
+                "link": "https://www.netflix.com/browse/genre/10702",
+                "id": "678c40d2-d117-4a93-92b6-91d96a4146a4"
             },
             {
                 "genre": {
@@ -79,7 +89,8 @@
                     "english": "Crime Action & Adventure"
                 },
                 "code": 9584,
-                "link": "https://www.netflix.com/browse/genre/9584"
+                "link": "https://www.netflix.com/browse/genre/9584",
+                "id": "44978e9d-30c4-472e-a49c-d2db0b42ad39"
             },
             {
                 "genre": {
@@ -87,7 +98,8 @@
                     "english": "Martial Arts Films"
                 },
                 "code": 8985,
-                "link": "https://www.netflix.com/browse/genre/8985"
+                "link": "https://www.netflix.com/browse/genre/8985",
+                "id": "d9079053-1b4f-45a6-8e61-64e70f0aedcb"
             },
             {
                 "genre": { 
@@ -95,7 +107,8 @@
                     "english": "Military Action & Adventure"
                 },
                 "code": 2125,
-                "link": "https://www.netflix.com/browse/genre/2125"
+                "link": "https://www.netflix.com/browse/genre/2125",
+                "id": "45b54240-1c60-4b74-b638-a15256ec47b9"
             },
             {
                 "genre": {
@@ -103,7 +116,8 @@
                     "english": "Anime"
                 },
                 "code": 7424,
-                "link": "https://www.netflix.com/browse/genre/7424"
+                "link": "https://www.netflix.com/browse/genre/7424",
+                "id": "a8f5e9c4-9387-4de7-86db-323377ad1e0f"
             },
             {
                 "genre": {
@@ -111,7 +125,8 @@
                     "english": "Adult Animation"
                 },
                 "code": 11881,
-                "link": "https://www.netflix.com/browse/genre/11881"
+                "link": "https://www.netflix.com/browse/genre/11881",
+                "id": "c3357909-9737-4efd-a9b3-e7c16fc0df7d"
             },
             {
                 "genre": {
@@ -119,7 +134,8 @@
                     "english": "Anime Action"
                 },
                 "code": 2653,
-                "link": "https://www.netflix.com/browse/genre/2653"
+                "link": "https://www.netflix.com/browse/genre/2653",
+                "id": "bdce3727-1151-4283-9b53-498b1e757cff"
             },
             {
                 "genre": {
@@ -127,7 +143,8 @@
                     "english": "Anime Comedies"
                 },
                 "code": 9302,
-                "link": "https://www.netflix.com/browse/genre/9302"
+                "link": "https://www.netflix.com/browse/genre/9302",
+                "id": "817b13ec-a5e5-4acf-a372-4908d035f09d"
             },
             {
                 "genre": {
@@ -135,7 +152,8 @@
                     "english": "Anime Dramas"
                 },
                 "code": 452,
-                "link": "https://www.netflix.com/browse/genre/452"
+                "link": "https://www.netflix.com/browse/genre/452",
+                "id": "dfaa4115-78c4-4323-be15-57af7852309d"
             },
             {
                 "genre": {
@@ -143,7 +161,8 @@
                     "english": "Anime Feature Films"
                 },
                 "code": 3063,
-                "link": "https://www.netflix.com/browse/genre/3063"
+                "link": "https://www.netflix.com/browse/genre/3063",
+                "id": "9e03e7b1-6f45-4582-92c8-5167ce3d48d2"
             },
             {
                 "genre": {
@@ -151,7 +170,8 @@
                     "english": "Anime Sci-Fi"
                 },
                 "code": 2729,
-                "link": "https://www.netflix.com/browse/genre/2729"
+                "link": "https://www.netflix.com/browse/genre/2729",
+                "id": "2dd0e6e6-31ea-4ab0-90a7-128451f14a55"
             },
             {
                 "genre": {
@@ -159,7 +179,8 @@
                     "english": "Anime Horror"
                 },
                 "code": 10695,
-                "link": "https://www.netflix.com/browse/genre/10695"
+                "link": "https://www.netflix.com/browse/genre/10695",
+                "id": "8fc64307-1424-440a-803c-0fb87f0d5cfe"
             },
             {
                 "genre": {
@@ -167,7 +188,8 @@
                     "english": "Anime Fantasies"
                 },
                 "code": 11146,
-                "link": "https://www.netflix.com/browse/genre/11146"
+                "link": "https://www.netflix.com/browse/genre/11146",
+                "id": "02f91a52-d036-4599-b964-fbee6bae2906"
             },
             {
                 "genre": {
@@ -175,7 +197,8 @@
                     "english": "Anime Series"
                 },
                 "code": 6721,
-                "link": "https://www.netflix.com/browse/genre/6721"
+                "link": "https://www.netflix.com/browse/genre/6721",
+                "id": "7fdfdee9-f35c-4bcb-b7df-68f29aeed2f0"
             },
             {
                 "genre": {
@@ -183,7 +206,8 @@
                     "english": "Children & Family Films"
                 },
                 "code": 783,
-                "link": "https://www.netflix.com/browse/genre/783"
+                "link": "https://www.netflix.com/browse/genre/783",
+                "id": "50c77441-9c7e-4b2b-8a20-96ed226eb731"
             },
             {
                 "genre": {
@@ -191,7 +215,8 @@
                     "english": "Education & Guidance"
                 },
                 "code": 10659,
-                "link": "https://www.netflix.com/browse/genre/10659"
+                "link": "https://www.netflix.com/browse/genre/10659",
+                "id": "0bf1075c-271b-4a7b-a63b-cf8e0f0849e0"
             },
             {
                 "genre": {
@@ -199,7 +224,8 @@
                     "english": "Disney"
                 },
                 "code": 67673,
-                "link": "https://www.netflix.com/browse/genre/67673"
+                "link": "https://www.netflix.com/browse/genre/67673",
+                "id": "be302fa1-649a-464a-813e-c1cd83dfeab7"
             },
             {
                 "genre": {
@@ -207,7 +233,8 @@
                     "english": "Films Based on Children Books"
                 },
                 "code": 10056,
-                "link": "https://www.netflix.com/browse/genre/10056"
+                "link": "https://www.netflix.com/browse/genre/10056",
+                "id": "c6b0ef20-4396-468c-a9da-d6b9a49638d6"
             },
             {
                 "genre": {
@@ -215,7 +242,8 @@
                     "english": "Family Features"
                 },
                 "code": 51056,
-                "link": "https://www.netflix.com/browse/genre/51056"
+                "link": "https://www.netflix.com/browse/genre/51056",
+                "id": "0fafc492-0434-432b-bba2-be77d6c3a4b3"
             },
             {
                 "genre": {
@@ -223,7 +251,8 @@
                     "english": "TV Cartoons"
                 },
                 "code": 11177,
-                "link": "https://www.netflix.com/browse/genre/11177"
+                "link": "https://www.netflix.com/browse/genre/11177",
+                "id": "56410af0-fcf6-4fdd-9b8c-2c6e0b3479f4"
             },
             {
                 "genre": {
@@ -231,7 +260,8 @@
                     "english": "Kids' TV"
                 },
                 "code": 27346,
-                "link": "https://www.netflix.com/browse/genre/27346"
+                "link": "https://www.netflix.com/browse/genre/27346",
+                "id": "c479538e-b1d0-4b0d-8268-0f3c5b893413"
             },
             {
                 "genre": {
@@ -239,7 +269,8 @@
                     "english": "Kids' Music"
                 },
                 "code": 52843,
-                "link": "https://www.netflix.com/browse/genre/52843"
+                "link": "https://www.netflix.com/browse/genre/52843",
+                "id": "0663d775-a1c8-45a3-8172-47a68f0eca58"
             },
             {
                 "genre": {
@@ -247,7 +278,8 @@
                     "english": "Animal Tales"
                 },
                 "code": 5507,
-                "link": "https://www.netflix.com/browse/genre/5507"
+                "link": "https://www.netflix.com/browse/genre/5507",
+                "id": "be0c42b2-e51e-46b0-9374-fd35bbfc605b"
             },
             {
                 "genre": {
@@ -255,7 +287,8 @@
                     "english": "Classic Films"
                 },
                 "code": 31574,
-                "link": "https://www.netflix.com/browse/genre/31574"
+                "link": "https://www.netflix.com/browse/genre/31574",
+                "id": "4748df53-2943-446a-8a49-bdb81e2d1820"
             },
             {
                 "genre": {
@@ -263,7 +296,8 @@
                     "english": "Classic Comedies"
                 },
                 "code": 31694,
-                "link": "https://www.netflix.com/browse/genre/31694"
+                "link": "https://www.netflix.com/browse/genre/31694",
+                "id": "d64770d1-b912-46e9-afe9-53e61eed1a8e"
             },
             {
                 "genre": {
@@ -271,7 +305,8 @@
                     "english": "Classic Dramas"
                 },
                 "code": 29809,
-                "link": "https://www.netflix.com/browse/genre/29809"
+                "link": "https://www.netflix.com/browse/genre/29809",
+                "id": "7d2132c8-7fdf-44eb-a2f5-906def0eb93d"
             },
             {
                 "genre": {
@@ -279,7 +314,8 @@
                     "english": "Classic Sci-Fi & Fantasy"
                 },
                 "code": 47147,
-                "link": "https://www.netflix.com/browse/genre/47147"
+                "link": "https://www.netflix.com/browse/genre/47147",
+                "id": "1905f119-9775-4186-a091-09cd84ecc930"
             },
             {
                 "genre": {
@@ -287,7 +323,8 @@
                     "english": "Classic Thrillers"
                 },
                 "code": 46588,
-                "link": "https://www.netflix.com/browse/genre/46588"
+                "link": "https://www.netflix.com/browse/genre/46588",
+                "id": "31a35f39-1231-405b-aea9-be9e946c613f"
             },
             {
                 "genre": {
@@ -295,7 +332,8 @@
                     "english": "Film Noir"
                 },
                 "code": 7687,
-                "link": "https://www.netflix.com/browse/genre/7687"
+                "link": "https://www.netflix.com/browse/genre/7687",
+                "id": "8878ad0f-5fd0-4e41-b806-70da34bd7bd7"
             },
             {
                 "genre": {
@@ -303,7 +341,8 @@
                     "english": "Classic War Films"
                 },
                 "code": 48744,
-                "link": "https://www.netflix.com/browse/genre/48744"
+                "link": "https://www.netflix.com/browse/genre/48744",
+                "id": "47cf0c1c-5952-4b7f-be3d-6aa311aa4445"
             },
             {
                 "genre": {
@@ -311,7 +350,8 @@
                     "english": "Epics"
                 },
                 "code": 52858,
-                "link": "https://www.netflix.com/browse/genre/52858"
+                "link": "https://www.netflix.com/browse/genre/52858",
+                "id": "8f8d55d3-f0fd-487e-857b-fd724f1e12ca"
             },
             {
                 "genre": {
@@ -319,7 +359,8 @@
                     "english": "Classic Foreign Movies"
                 },
                 "code": 32473,
-                "link": "https://www.netflix.com/browse/genre/32473"
+                "link": "https://www.netflix.com/browse/genre/32473",
+                "id": "202f702d-5543-4cf7-9da2-95a66a791bf9"
             },
             {
                 "genre": {
@@ -327,7 +368,8 @@
                     "english": "Silent Films"
                 },
                 "code": 53310,
-                "link": "https://www.netflix.com/browse/genre/53310"
+                "link": "https://www.netflix.com/browse/genre/53310",
+                "id": "16b317eb-cd13-4908-bd5f-17848d481995"
             },
             {
                 "genre": {
@@ -335,7 +377,8 @@
                     "english": "Classic Westerns"
                 },
                 "code": 47465,
-                "link": "https://www.netflix.com/browse/genre/47465"
+                "link": "https://www.netflix.com/browse/genre/47465",
+                "id": "9e9c4d94-4bbd-432f-aa30-5c0b99bb357a"
             },
             {
                 "genre": {
@@ -343,7 +386,8 @@
                     "english": "Comedies"
                 },
                 "code": 6548,
-                "link": "https://www.netflix.com/browse/genre/6548"
+                "link": "https://www.netflix.com/browse/genre/6548",
+                "id": "9c22a226-9945-4324-9381-9eb8bf1c485c"
             },
             {
                 "genre": {
@@ -351,7 +395,8 @@
                     "english": "Dark Comedies"
                 },
                 "code": 869,
-                "link": "https://www.netflix.com/browse/genre/869"
+                "link": "https://www.netflix.com/browse/genre/869",
+                "id": "201a886e-c8eb-4698-8c0c-e49aaf2c2bec"
             },
             {
                 "genre": {
@@ -359,7 +404,8 @@
                     "english": "Late Night Comedies"
                 },
                 "code": 1402,
-                "link": "https://www.netflix.com/browse/genre/1402"
+                "link": "https://www.netflix.com/browse/genre/1402",
+                "id": "2299655e-2048-44cd-a095-813190418ef2"
             },
             {
                 "genre": {
@@ -367,7 +413,8 @@
                     "english": "Mockumentaries"
                 },
                 "code": 26,
-                "link": "https://www.netflix.com/browse/genre/26"
+                "link": "https://www.netflix.com/browse/genre/26",
+                "id": "5a78cda6-65a0-468f-be3f-2c8e7a8fb514"
             },
             {
                 "genre": {
@@ -375,7 +422,8 @@
                     "english": "Political Comedies"
                 },
                 "code": 2700,
-                "link": "https://www.netflix.com/browse/genre/2700"
+                "link": "https://www.netflix.com/browse/genre/2700",
+                "id": "3dc3c1e1-b77a-41ac-b43c-caa3c951b3b3"
             },
             {
                 "genre": {
@@ -383,7 +431,8 @@
                     "english": "Screwball Comedies"
                 },
                 "code": 9702,
-                "link": "https://www.netflix.com/browse/genre/9702"
+                "link": "https://www.netflix.com/browse/genre/9702",
+                "id": "0acbb26a-1531-46a0-8a75-06ac4359382b"
             },
             {
                 "genre": {
@@ -391,7 +440,8 @@
                     "english": "Sports Comedies"
                 },
                 "code": 15286,
-                "link": "https://www.netflix.com/browse/genre/5286"
+                "link": "https://www.netflix.com/browse/genre/5286",
+                "id": "06a7e1c1-e7dc-4213-8db8-55b444499390"
             },
             {
                 "genre": {
@@ -399,7 +449,8 @@
                     "english": "Stand-up Comedy"
                 },
                 "code": 11559,
-                "link": "https://www.netflix.com/browse/genre/11559"
+                "link": "https://www.netflix.com/browse/genre/11559",
+                "id": "d4953bf6-bb8b-4984-8d2e-e245b9aaff48"
             },
             {
                 "genre": {
@@ -407,7 +458,8 @@
                     "english": "Teen Comedies"
                 },
                 "code": 3519,
-                "link": "https://www.netflix.com/browse/genre/3519"
+                "link": "https://www.netflix.com/browse/genre/3519",
+                "id": "3fe109f1-686e-4d47-935a-42f5b8ac5bf8"
             },
             {
                 "genre": {
@@ -415,7 +467,8 @@
                     "english": "Spoofs & Satires"
                 },
                 "code": 4922,
-                "link": "https://www.netflix.com/browse/genre/4922"
+                "link": "https://www.netflix.com/browse/genre/4922",
+                "id": "e22b9d24-f9d0-4936-9f95-c11206e9121e"
             },
             {
                 "genre": {
@@ -423,7 +476,8 @@
                     "english": "Romantic Comedies"
                 },
                 "code": 5475,
-                "link": "https://www.netflix.com/browse/genre/5475"
+                "link": "https://www.netflix.com/browse/genre/5475",
+                "id": "372e12ba-b3d6-439f-985e-220df6f00c37"
             },
             {
                 "genre": {
@@ -431,7 +485,8 @@
                     "english": "Slapstick Comedies"
                 },
                 "code": 10256,
-                "link": "https://www.netflix.com/browse/genre/10256"
+                "link": "https://www.netflix.com/browse/genre/10256",
+                "id": "6a616547-9313-4d43-85d2-15075d0016db"
             },
             {
                 "genre": {
@@ -439,7 +494,8 @@
                     "english": "Cult Films"
                 },
                 "code": 7627,
-                "link": "https://www.netflix.com/browse/genre/7627"
+                "link": "https://www.netflix.com/browse/genre/7627",
+                "id": "d6f5f009-84f9-49dc-b538-fbca13c0968d"
             },
             {
                 "genre": {
@@ -447,7 +503,8 @@
                     "english": "B-Horror Films"
                 },
                 "code": 8195,
-                "link": "https://www.netflix.com/browse/genre/8195"
+                "link": "https://www.netflix.com/browse/genre/8195",
+                "id": "bb053368-6dad-44c5-924b-27c1a6edebeb"
             },
             {
                 "genre": {
@@ -455,7 +512,8 @@
                     "english": "Camp Films"
                 },
                 "code": 1252,
-                "link": "https://www.netflix.com/browse/genre/1252"
+                "link": "https://www.netflix.com/browse/genre/1252",
+                "id": "207f7983-8748-4359-a27d-73dcc65f3dde"
             },
             {
                 "genre": {
@@ -463,7 +521,8 @@
                     "english": "Cult Horror Films"
                 },
                 "code": 10944,
-                "link": "https://www.netflix.com/browse/genre/10944"
+                "link": "https://www.netflix.com/browse/genre/10944",
+                "id": "b06f77ab-0817-4487-9168-9a24fe94eb10"
             },
             {
                 "genre": {
@@ -471,7 +530,8 @@
                     "english": "Cult Sci-Fi & Fantasy films"
                 },
                 "code": 4734,
-                "link": "https://www.netflix.com/browse/genre/4734"
+                "link": "https://www.netflix.com/browse/genre/4734",
+                "id": "0baa6564-3033-4e75-95bc-23544c580559"
             },
             {
                 "genre": {
@@ -479,7 +539,8 @@
                     "english": "Cult Comedies"
                 },
                 "code": 9434,
-                "link": "https://www.netflix.com/browse/genre/9434"
+                "link": "https://www.netflix.com/browse/genre/9434",
+                "id": "a8d8c674-74cb-4bfb-9d8b-5542c27eef74"
             },
             {
                 "genre": {
@@ -487,7 +548,8 @@
                     "english": "Documentaries"
                 },
                 "code": 6839,
-                "link": "https://www.netflix.com/browse/genre/6839"
+                "link": "https://www.netflix.com/browse/genre/6839",
+                "id": "bfbd1702-f39c-4340-8c45-d54d6df49a02"
             },
             {
                 "genre": {
@@ -495,7 +557,8 @@
                     "english": "Biographical Documentaries"
                 },
                 "code": 3652,
-                "link": "https://www.netflix.com/browse/genre/3652"
+                "link": "https://www.netflix.com/browse/genre/3652",
+                "id": "272b5d8d-8d4d-421c-ae3e-1037936657e4"
             },
             {
                 "genre": {
@@ -503,7 +566,8 @@
                     "english": "Crime Documentaries"
                 },
                 "code": 9875,
-                "link": "https://www.netflix.com/browse/genre/9875"
+                "link": "https://www.netflix.com/browse/genre/9875",
+                "id": "03cbd8c9-af5b-4042-9386-1174601f86c1"
             },
             {
                 "genre": {
@@ -511,7 +575,8 @@
                     "english": "Military Documentaries"
                 },
                 "code": 4006,
-                "link": "https://www.netflix.com/browse/genre/4006"
+                "link": "https://www.netflix.com/browse/genre/4006",
+                "id": "025b5b9a-2239-4da4-bc6f-4ac5240bc095"
             },
             {
                 "genre": {
@@ -519,7 +584,8 @@
                     "english": "Music & Concert Documentaries"
                 },
                 "code": 90361,
-                "link": "https://www.netflix.com/browse/genre/90361"
+                "link": "https://www.netflix.com/browse/genre/90361",
+                "id": "bbd4ccba-20b9-488b-b30d-466163b75639"
             },
             {
                 "genre": {
@@ -527,7 +593,8 @@
                     "english": "Travel & Adventure Documentaries"
                 },
                 "code": 1159,
-                "link": "https://www.netflix.com/browse/genre/1159"
+                "link": "https://www.netflix.com/browse/genre/1159",
+                "id": "6ff94d63-060d-4830-a838-8cb2dd9172e3"
             },
             {
                 "genre": {
@@ -535,7 +602,8 @@
                     "english": "Political Documentaries"
                 },
                 "code": 7018,
-                "link": "https://www.netflix.com/browse/genre/7018"
+                "link": "https://www.netflix.com/browse/genre/7018",
+                "id": "faf56ba6-2b5b-4c2b-afdc-ce58d69b6c0d"
             },
             {
                 "genre": {
@@ -543,7 +611,8 @@
                     "english": "Science & Nature Documentaries"
                 },
                 "code": 2595,
-                "link": "https://www.netflix.com/browse/genre/2595"
+                "link": "https://www.netflix.com/browse/genre/2595",
+                "id": "7a8c7d83-5f30-4fd8-8a32-00da972347c7"
             },
             {
                 "genre": {
@@ -551,7 +620,8 @@
                     "english": "Social & Cultural Documentaries"
                 },
                 "code": 3675,
-                "link": "https://www.netflix.com/browse/genre/3675"
+                "link": "https://www.netflix.com/browse/genre/3675",
+                "id": "a97c0267-11b6-4924-8b85-433dcfac60ed"
             },
             {
                 "genre": {
@@ -559,7 +629,8 @@
                     "english": "Dramas"
                 },
                 "code": 5763,
-                "link": "https://www.netflix.com/browse/genre/5763"
+                "link": "https://www.netflix.com/browse/genre/5763",
+                "id": "2c210349-8834-44cc-8110-6f0e152f1a5b"
             },
             {
                 "genre": {
@@ -567,7 +638,8 @@
                     "english": "Biographical Dramas"
                 },
                 "code": 3179,
-                "link": "https://www.netflix.com/browse/genre/3179"
+                "link": "https://www.netflix.com/browse/genre/3179",
+                "id": "a3f06f20-216c-434e-86a3-3bb3320fcc24"
             },
             {
                 "genre": {
@@ -575,7 +647,8 @@
                     "english": "Crime Dramas"
                 },
                 "code": 6889,
-                "link": "https://www.netflix.com/browse/genre/6889"
+                "link": "https://www.netflix.com/browse/genre/6889",
+                "id": "69c1ff1d-337a-4b40-bdac-981ba06c4f12"
             },
             {
                 "genre": {
@@ -583,7 +656,8 @@
                     "english": "Dramas Based on Books"
                 },
                 "code": 4961,
-                "link": "https://www.netflix.com/browse/genre/4961"
+                "link": "https://www.netflix.com/browse/genre/4961",
+                "id": "399722e8-8153-4996-a015-ec06bdb3dd8f"
             },
             {
                 "genre": {
@@ -591,7 +665,8 @@
                     "english": "Dramas Based on Real Life"
                 },
                 "code": 3653,
-                "link": "https://www.netflix.com/browse/genre/3653"
+                "link": "https://www.netflix.com/browse/genre/3653",
+                "id": "4769c673-5980-48af-9dce-bb7c730d624a"
             },
             {
                 "genre": {
@@ -599,7 +674,8 @@
                     "english": "Tearjerkers"
                 },
                 "code": 6384,
-                "link": "https://www.netflix.com/browse/genre/6384"
+                "link": "https://www.netflix.com/browse/genre/6384",
+                "id": "4518b4ce-b2e4-476a-bce5-d6178c72b690"
             },
             {
                 "genre": {
@@ -607,7 +683,8 @@
                     "english": "LGBTQ Dramas"
                 },
                 "code": 500,
-                "link": "https://www.netflix.com/browse/genre/500"
+                "link": "https://www.netflix.com/browse/genre/500",
+                "id": "e3a2c488-47d2-4eca-85a0-6a7eb231552f"
             },
             {
                 "genre": {
@@ -615,7 +692,8 @@
                     "english": "Independent Dramas"
                 },
                 "code": 384,
-                "link": "https://www.netflix.com/browse/genre/384"
+                "link": "https://www.netflix.com/browse/genre/384",
+                "id": "75ae436b-b7dc-4297-8887-ff48b2e62893"
             },
             {
                 "genre": {
@@ -623,7 +701,8 @@
                     "english": "Teen Dramas"
                 },
                 "code": 9299,
-                "link": "https://www.netflix.com/browse/genre/9299"
+                "link": "https://www.netflix.com/browse/genre/9299",
+                "id": "d93b16ed-72f4-477a-b33d-671e88a24143"
             },
             {
                 "genre": {
@@ -631,7 +710,8 @@
                     "english": "Military Dramas"
                 },
                 "code": 11,
-                "link": "https://www.netflix.com/browse/genre/11"
+                "link": "https://www.netflix.com/browse/genre/11",
+                "id": "e6be43ae-fa61-4b5e-8160-69723610c2b6"
             },
             {
                 "genre": {
@@ -639,7 +719,8 @@
                     "english": "Period Pieces"
                 },
                 "code": 12123,
-                "link": "https://www.netflix.com/browse/genre/12123"
+                "link": "https://www.netflix.com/browse/genre/12123",
+                "id": "2d62c5dd-45d3-402c-a39d-10afe5b6051d"
             },
             {
                 "genre": {
@@ -647,7 +728,8 @@
                     "english": "Political Dramas"
                 },
                 "code": 6616,
-                "link": "https://www.netflix.com/browse/genre/6616"
+                "link": "https://www.netflix.com/browse/genre/6616",
+                "id": "c0360148-f40c-4ca5-9532-74f5eb3cb023"
             },
             {
                 "genre": {
@@ -655,7 +737,8 @@
                     "english": "Romantic Dramas"
                 },
                 "code": 1255,
-                "link": "https://www.netflix.com/browse/genre/1255"
+                "link": "https://www.netflix.com/browse/genre/1255",
+                "id": "092433a5-1334-4a59-a599-34860e065324"
             },
             {
                 "genre": {
@@ -663,7 +746,8 @@
                     "english": "Showbiz Dramas"
                 },
                 "code": 5012,
-                "link": "https://www.netflix.com/browse/genre/5012"
+                "link": "https://www.netflix.com/browse/genre/5012",
+                "id": "cbfbfcc4-3f49-4522-9271-c3563fd624a2"
             },
             {
                 "genre": {
@@ -671,7 +755,8 @@
                     "english": "Social Issue Dramas"
                 },
                 "code": 3947,
-                "link": "https://www.netflix.com/browse/genre/3947"
+                "link": "https://www.netflix.com/browse/genre/3947",
+                "id": "ea5f1873-a201-4c48-bdf5-b736c33ea809"
             },
             {
                 "genre": {
@@ -679,7 +764,8 @@
                     "english": "Faith & Spirituality"
                 },
                 "code": 26835,
-                "link": "https://www.netflix.com/browse/genre/26835"
+                "link": "https://www.netflix.com/browse/genre/26835",
+                "id": "2adaafdb-6d2c-4fae-ab9c-da476ca08730"
             },
             {
                 "genre": {
@@ -687,7 +773,8 @@
                     "english": "Faith & Spirituality Films"
                 },
                 "code": 52804,
-                "link": "https://www.netflix.com/browse/genre/52804"
+                "link": "https://www.netflix.com/browse/genre/52804",
+                "id": "7cb44e23-7867-4db9-8128-fe5f43cb5a55"
             },
             {
                 "genre": {
@@ -695,7 +782,8 @@
                     "english": "Spiritual Documentaries"
                 },
                 "code": 2760,
-                "link": "https://www.netflix.com/browse/genre/2760"
+                "link": "https://www.netflix.com/browse/genre/2760",
+                "id": "f49c4442-7b67-4d06-b415-75b07ee11390"
             },
             {
                 "genre": {
@@ -703,7 +791,8 @@
                     "english": "Kids Faith & Spirituality"
                 },
                 "code": 751423,
-                "link": "https://www.netflix.com/browse/genre/751423"
+                "link": "https://www.netflix.com/browse/genre/751423",
+                "id": "e9b18056-625b-49cd-8042-07af3023e6b0"
             },
             {
                 "genre": {
@@ -711,7 +800,8 @@
                     "english": "Art House Films"
                 },
                 "code": 29764,
-                "link": "https://www.netflix.com/browse/genre/29764"
+                "link": "https://www.netflix.com/browse/genre/29764",
+                "id": "d5b174fa-4c6d-4d22-b59a-b94de5be9424"
             },  
             {
                 "genre": {
@@ -719,7 +809,8 @@
                     "english": "African Films"
                 },
                 "code": 3761,
-                "link": "https://www.netflix.com/browse/genre/3761"
+                "link": "https://www.netflix.com/browse/genre/3761",
+                "id": "c277b334-b779-498f-b413-a725f394a6b8"
             },  
             {
                 "genre": {
@@ -727,7 +818,8 @@
                     "english": "Australian Films"
                 },
                 "code": 5230,
-                "link": "https://www.netflix.com/browse/genre/5230"
+                "link": "https://www.netflix.com/browse/genre/5230",
+                "id": "310d637f-7906-4838-ad70-4d4eb4939385"
             },  
             {
                 "genre": {
@@ -735,7 +827,8 @@
                     "english": "Belgian Films"
                 },
                 "code": 262,
-                "link": "https://www.netflix.com/browse/genre/262"
+                "link": "https://www.netflix.com/browse/genre/262",
+                "id": "3ca9e014-f5f1-467b-be01-b38c287a0bec"
             },
             {
                 "genre": {
@@ -743,7 +836,8 @@
                     "english": "Korean Films"
                 },
                 "code": 5685,
-                "link": "https://www.netflix.com/browse/genre/5685"
+                "link": "https://www.netflix.com/browse/genre/5685",
+                "id": "f8416d93-bf41-4b2f-925f-aaad975957f4"
             },  
             {
                 "genre": {
@@ -751,7 +845,8 @@
                     "english": "Latin American Films"
                 },
                 "code": 1613,
-                "link": "https://www.netflix.com/browse/genre/1613"
+                "link": "https://www.netflix.com/browse/genre/1613",
+                "id": "5302b228-685b-4715-9845-d53a0334d5cf"
             },  
             {
                 "genre": {
@@ -759,7 +854,8 @@
                     "english": "Middle-Eastern Films"
                 },
                 "code": 5875,
-                "link": "https://www.netflix.com/browse/genre/5875"
+                "link": "https://www.netflix.com/browse/genre/5875",
+                "id": "ba861319-c6a7-483f-abd0-06e0723385cc"
             }, 
             {
                 "genre": {
@@ -767,7 +863,8 @@
                     "english": "New Zealand Films"
                 },
                 "code": 63782,
-                "link": "https://www.netflix.com/browse/genre/63782"
+                "link": "https://www.netflix.com/browse/genre/63782",
+                "id": "d471b49c-252c-450b-a86a-5b0d4ff5b532"
             },  
             {
                 "genre": {
@@ -775,7 +872,8 @@
                     "english": "Russian"
                 },
                 "code": 11567,
-                "link": "https://www.netflix.com/browse/genre/11567"
+                "link": "https://www.netflix.com/browse/genre/11567",
+                "id": "9e1e2a2b-36a4-42b8-acda-0092017ff4ce"
             },  
             {
                 "genre": {
@@ -783,7 +881,8 @@
                     "english": "Scandinavian Films"
                 },
                 "code": 9292,
-                "link": "https://www.netflix.com/browse/genre/9292"
+                "link": "https://www.netflix.com/browse/genre/9292",
+                "id": "635c1b1e-c40d-4cd6-9ed1-88aabdd185ad"
             },  
             {
                 "genre": {
@@ -791,7 +890,8 @@
                     "english": "Southeast Asian Films"
                 },
                 "code": 9196,
-                "link": "https://www.netflix.com/browse/genre/9196"
+                "link": "https://www.netflix.com/browse/genre/9196",
+                "id": "44d39f0b-6c46-43fe-af7e-4273b3e3c86e"
             },  
             {
                 "genre": {
@@ -799,7 +899,8 @@
                     "english": "Spanish Films"
                 },
                 "code": 58741,
-                "link": "https://www.netflix.com/browse/genre/58741"
+                "link": "https://www.netflix.com/browse/genre/58741",
+                "id": "e112b9af-5116-49bb-a965-549c40a800ad"
             },  
             {
                 "genre": {
@@ -807,7 +908,8 @@
                     "english": "Greek Films"
                 },
                 "code": 61115,
-                "link": "https://www.netflix.com/browse/genre/61115"
+                "link": "https://www.netflix.com/browse/genre/61115",
+                "id": "8b829dae-ca19-46d6-ac2b-b5c69c66cff9"
             },  
             {
                 "genre": {
@@ -815,7 +917,8 @@
                     "english": "German Films"
                 },
                 "code": 58886,
-                "link": "https://www.netflix.com/browse/genre/58886"
+                "link": "https://www.netflix.com/browse/genre/58886",
+                "id": "c31018ee-52cb-417f-8db7-79b06ba17ce1"
             },  
             {
                 "genre": {
@@ -823,7 +926,8 @@
                     "english": "French Films"
                 },
                 "code": 58807,
-                "link": "https://www.netflix.com/browse/genre/58807"
+                "link": "https://www.netflix.com/browse/genre/58807",
+                "id": "582b2e61-edfa-41ae-946b-7644e2e2d02c"
             },  
             {
                 "genre": {
@@ -831,7 +935,8 @@
                     "english": "Eastern European Films"
                 },
                 "code": 5254,
-                "link": "https://www.netflix.com/browse/genre/5254"
+                "link": "https://www.netflix.com/browse/genre/5254",
+                "id": "19b8ba8b-7ad1-46ff-b35e-a608ebd5bc37"
             },  
             {
                 "genre": {
@@ -839,7 +944,8 @@
                     "english": "Dutch Films"
                 },
                 "code": 10606,
-                "link": "https://www.netflix.com/browse/genre/10606"
+                "link": "https://www.netflix.com/browse/genre/10606",
+                "id": "250e8ffa-397e-4d07-bcb2-8b352c6acfdd"
             },  
             {
                 "genre": {
@@ -847,7 +953,8 @@
                     "english": "Irish Films"
                 },
                 "code": 58750,
-                "link": "https://www.netflix.com/browse/genre/58750"
+                "link": "https://www.netflix.com/browse/genre/58750",
+                "id": "6e12c89b-0414-4d87-abcb-5b000d1aeb50"
             },  
             {
                 "genre": {
@@ -855,7 +962,8 @@
                     "english": "Japanese Films"
                 },
                 "code": 10398,
-                "link": "https://www.netflix.com/browse/genre/10398"
+                "link": "https://www.netflix.com/browse/genre/10398",
+                "id": "d945c706-63ce-48d7-9c84-907d2dd400f2"
             },  
             {
                 "genre": {
@@ -863,7 +971,8 @@
                     "english": "Italian Films"
                 },
                 "code": 8221,
-                "link": "https://www.netflix.com/browse/genre/8221"
+                "link": "https://www.netflix.com/browse/genre/8221",
+                "id": "9f0c006b-b7fe-49a8-a358-ab8bea13b60f"
             },  
             {
                 "genre": {
@@ -871,7 +980,8 @@
                     "english": "Indian Films"
                 },
                 "code": 10463,
-                "link": "https://www.netflix.com/browse/genre/10463"
+                "link": "https://www.netflix.com/browse/genre/10463",
+                "id": "d84bd708-b9bb-4545-8069-ebd6ec679f8a"
             },  
             {
                 "genre": {
@@ -879,7 +989,8 @@
                     "english": "Chinese Films"
                 },
                 "code": 3960,
-                "link": "https://www.netflix.com/browse/genre/3960"
+                "link": "https://www.netflix.com/browse/genre/3960",
+                "id": "dfa325b7-7db0-49ab-8861-ee369e778f1e"
             },  
             {
                 "genre": {
@@ -887,7 +998,8 @@
                     "english": "British Films"
                 },
                 "code": 10757,
-                "link": "https://www.netflix.com/browse/genre/10757"
+                "link": "https://www.netflix.com/browse/genre/10757",
+                "id": "2f2926c7-4e41-408d-a6a6-2b2e921d0f1e"
             },  
             {
                 "genre": {
@@ -895,7 +1007,8 @@
                     "english": "LGBTQ Films"
                 },
                 "code": 5977,
-                "link": "https://www.netflix.com/browse/genre/5977"
+                "link": "https://www.netflix.com/browse/genre/5977",
+                "id": "a70f89bc-7937-4ac1-885c-35d81cf56684"
             },  
             {
                 "genre": {
@@ -903,7 +1016,8 @@
                     "english": "LGBTQ Comedies"
                 },
                 "code": 7120,
-                "link": "https://www.netflix.com/browse/genre/7120"
+                "link": "https://www.netflix.com/browse/genre/7120",
+                "id": "a7decce6-7ad7-4e12-90d7-88d19bb53cdc"
             },  
             {
                 "genre": {
@@ -911,7 +1025,8 @@
                     "english": "Romantic LGBTQ Films"
                 },
                 "code": 3329,
-                "link": "https://www.netflix.com/browse/genre/3329"
+                "link": "https://www.netflix.com/browse/genre/3329",
+                "id": "8c504019-785c-4743-9695-6c5001e82f3c"
             },  
             {
                 "genre": {
@@ -919,7 +1034,8 @@
                     "english": "Gay & Lesbian Documentaries"
                 },
                 "code": 4720,
-                "link": "https://www.netflix.com/browse/genre/4720"
+                "link": "https://www.netflix.com/browse/genre/4720",
+                "id": "e6a14a8a-992e-452e-980b-8df9562b3613"
             },  
             {
                 "genre": {
@@ -927,7 +1043,8 @@
                     "english": "LGBTQ TV Programmes"
                 },
                 "code": 65263,
-                "link": "https://www.netflix.com/browse/genre/65263"
+                "link": "https://www.netflix.com/browse/genre/65263",
+                "id": "cb3f0ef6-1bf7-4236-b614-91cd9526583c"
             },  
             {
                 "genre": {
@@ -935,7 +1052,8 @@
                     "english": "Horror Films"
                 },
                 "code": 8711,
-                "link": "https://www.netflix.com/browse/genre/8711"
+                "link": "https://www.netflix.com/browse/genre/8711",
+                "id": "94a6ee3b-43ad-484b-84b3-f801399fc0c1"
             },  
             {
                 "genre": {
@@ -943,7 +1061,8 @@
                     "english": "Supernatural Horror Films"
                 },
                 "code": 42023,
-                "link": "https://www.netflix.com/browse/genre/42023"
+                "link": "https://www.netflix.com/browse/genre/42023",
+                "id": "44066746-d1af-411f-99c4-a01917557c98"
             },  
             {
                 "genre": {
@@ -951,7 +1070,8 @@
                     "english": "Teen Screams"
                 },
                 "code": 52147,
-                "link": "https://www.netflix.com/browse/genre/52147"
+                "link": "https://www.netflix.com/browse/genre/52147",
+                "id": "8eafe066-6447-46b0-a557-093af7cf5378"
             },  
             {
                 "genre": {
@@ -959,7 +1079,8 @@
                     "english": "Vampire Horror Films"
                 },
                 "code": 75804,
-                "link": "https://www.netflix.com/browse/genre/75804"
+                "link": "https://www.netflix.com/browse/genre/75804",
+                "id": "4cb07df2-1418-45e5-8c4b-c10b91331d02"
             },  
             {
                 "genre": {
@@ -967,7 +1088,8 @@
                     "english": "Werewolf Horror Films"
                 },
                 "code": 75930,
-                "link": "https://www.netflix.com/browse/genre/75930"
+                "link": "https://www.netflix.com/browse/genre/75930",
+                "id": "227d11ce-858e-47a4-ba91-5a2cdcad6fb2"
             },  
             {
                 "genre": {
@@ -975,7 +1097,8 @@
                     "english": "Zombie Horror Films"
                 },
                 "code": 75405,
-                "link": "https://www.netflix.com/browse/genre/75405"
+                "link": "https://www.netflix.com/browse/genre/75405",
+                "id": "bca73dc5-4943-4a86-854a-3e23d39be62e"
             },  
             {
                 "genre": {
@@ -983,7 +1106,8 @@
                     "english": "Satanic Stories"
                 },
                 "code": 6998,
-                "link": "https://www.netflix.com/browse/genre/6998"
+                "link": "https://www.netflix.com/browse/genre/6998",
+                "id": "0bc2f242-df68-4a17-a293-7acca382e777"
             },  
             {
                 "genre": {
@@ -991,7 +1115,8 @@
                     "english": "Independent Films"
                 },
                 "code": 7077,
-                "link": "https://www.netflix.com/browse/genre/7077"
+                "link": "https://www.netflix.com/browse/genre/7077",
+                "id": "88341830-f310-48ad-bc72-8c02715c9dc6"
             },  
             {
                 "genre": {
@@ -999,7 +1124,8 @@
                     "english": "Experimental Films"
                 },
                 "code": 11079,
-                "link": "https://www.netflix.com/browse/genre/11079"
+                "link": "https://www.netflix.com/browse/genre/11079",
+                "id": "bd3cae6f-6aa5-43df-a9ee-fd61942f19bd"
             },  
             {
                 "genre": {
@@ -1007,7 +1133,8 @@
                     "english": "Independent Action & Adventure"
                 },
                 "code": 11804,
-                "link": "https://www.netflix.com/browse/genre/11804"
+                "link": "https://www.netflix.com/browse/genre/11804",
+                "id": "60e190cd-2010-46e9-97c3-fc2009bc1126"
             },  
             {
                 "genre": {
@@ -1015,7 +1142,8 @@
                     "english": "Independent Thrillers"
                 },
                 "code": 3269,
-                "link": "https://www.netflix.com/browse/genre/3269"
+                "link": "https://www.netflix.com/browse/genre/3269",
+                "id": "08e85cec-003a-4a01-aa8a-0ca2e055791e"
             },  
             {
                 "genre": {
@@ -1023,7 +1151,8 @@
                     "english": "Romantic Independent Films"
                 },
                 "code": 9916,
-                "link": "https://www.netflix.com/browse/genre/9916"
+                "link": "https://www.netflix.com/browse/genre/9916",
+                "id": "7087c521-411b-489e-ba39-c998cb92c2ad"
             },  
             {
                 "genre": {
@@ -1031,7 +1160,8 @@
                     "english": "Independent Comedies"
                 },
                 "code": 4195,
-                "link": "https://www.netflix.com/browse/genre/4195"
+                "link": "https://www.netflix.com/browse/genre/4195",
+                "id": "d93e601e-9ed8-4147-8089-646c722c5623"
             },  
             {
                 "genre": {
@@ -1039,7 +1169,8 @@
                     "english": "Music"
                 },
                 "code": 1701,
-                "link": "https://www.netflix.com/browse/genre/1701"
+                "link": "https://www.netflix.com/browse/genre/1701",
+                "id": "58102803-5289-4bb9-b0a8-acd00c51682b"
             },  
             {
                 "genre": {
@@ -1047,7 +1178,8 @@
                     "english": "Latin Music"
                 },
                 "code": 10741,
-                "link": "https://www.netflix.com/browse/genre/10741"
+                "link": "https://www.netflix.com/browse/genre/10741",
+                "id": "b4dd52dc-e6f3-4342-a683-e21b1a735595"
             },  
             {
                 "genre": {
@@ -1055,7 +1187,8 @@
                     "english": "World Music"
                 },
                 "code": 2856,
-                "link": "https://www.netflix.com/browse/genre/2856"
+                "link": "https://www.netflix.com/browse/genre/2856",
+                "id": "9332dbd5-faf9-47d7-b45a-d46d391e3560"
             },  
             {
                 "genre": {
@@ -1063,7 +1196,8 @@
                     "english": "Musicals"
                 },
                 "code": 13335,
-                "link": "https://www.netflix.com/browse/genre/13335"
+                "link": "https://www.netflix.com/browse/genre/13335",
+                "id": "e6c532ab-8a5d-4696-97f7-992ae0fac669"
             },  
             {
                 "genre": {
@@ -1071,7 +1205,8 @@
                     "english": "Classic Musicals"
                 },
                 "code": 32392,
-                "link": "https://www.netflix.com/browse/genre/32392"
+                "link": "https://www.netflix.com/browse/genre/32392",
+                "id": "48f6faad-1c52-4378-b091-b5c27410ba0c"
             },  
             {
                 "genre": {
@@ -1079,7 +1214,8 @@
                     "english": "Disney Musicals"
                 },
                 "code": 59433,
-                "link": "https://www.netflix.com/browse/genre/59433"
+                "link": "https://www.netflix.com/browse/genre/59433",
+                "id": "da4a5fb1-2376-4cd3-903a-f9a608460127"
             },  
             {
                 "genre": {
@@ -1087,7 +1223,8 @@
                     "english": "Showbiz Musicals"
                 },
                 "code": 13573,
-                "link": "https://www.netflix.com/browse/genre/13573"
+                "link": "https://www.netflix.com/browse/genre/13573",
+                "id": "8a95c58f-ed70-404b-860e-e734ed018334"
             },  
             {
                 "genre": {
@@ -1095,7 +1232,8 @@
                     "english": "Stage Musicals"
                 },
                 "code": 55774,
-                "link": "https://www.netflix.com/browse/genre/55774"
+                "link": "https://www.netflix.com/browse/genre/55774",
+                "id": "b9d4a7af-2e88-4614-bb36-e33a3898e589"
             },  
             {
                 "genre": {
@@ -1103,7 +1241,8 @@
                     "english": "Romantic Films"
                 },
                 "code": 8883,
-                "link": "https://www.netflix.com/browse/genre/8883"
+                "link": "https://www.netflix.com/browse/genre/8883",
+                "id": "95bd9566-fee8-4229-874d-cadc51e6d08c"
             },  
             {
                 "genre": {
@@ -1111,7 +1250,8 @@
                     "english": "Romantic Favourites"
                 },
                 "code": 502675,
-                "link": "https://www.netflix.com/browse/genre/502675"
+                "link": "https://www.netflix.com/browse/genre/502675",
+                "id": "c0b00c67-df4d-4cd3-ac6e-17d1af08a80c"
             },  
             {
                 "genre": {
@@ -1119,7 +1259,8 @@
                     "english": "Quirky Romance"
                 },
                 "code": 36103,
-                "link": "https://www.netflix.com/browse/genre/36103"
+                "link": "https://www.netflix.com/browse/genre/36103",
+                "id": "00e3c89b-54d4-44a7-93e6-24b816bae295"
             },  
             {
                 "genre": {
@@ -1127,7 +1268,8 @@
                     "english": "Steamy Romance"
                 },
                 "code": 35800,
-                "link": "https://www.netflix.com/browse/genre/35800"
+                "link": "https://www.netflix.com/browse/genre/35800",
+                "id": "6241cf3f-1fcd-4d9e-97bf-258de460b5d7"
             },  
             {
                 "genre": {
@@ -1135,7 +1277,8 @@
                     "english": "Classic Romantic Films"
                 },
                 "code": 31273,
-                "link": "https://www.netflix.com/browse/genre/31273"
+                "link": "https://www.netflix.com/browse/genre/31273",
+                "id": "619ffcda-e8dc-4551-832d-556820cf6397"
             },  
             {
                 "genre": {
@@ -1143,7 +1286,8 @@
                     "english": "Sci-Fi & Fantasy"
                 },
                 "code": 1492,
-                "link": "https://www.netflix.com/browse/genre/1492"
+                "link": "https://www.netflix.com/browse/genre/1492",
+                "id": "1b12a074-960a-4388-9d43-f69e87c01e0f"
             },  
             {
                 "genre": {
@@ -1151,7 +1295,8 @@
                     "english": "Action Sci-Fi & Fantasy"
                 },
                 "code": 1568,
-                "link": "https://www.netflix.com/browse/genre/1568"
+                "link": "https://www.netflix.com/browse/genre/1568",
+                "id": "c4b976b1-eebe-4c65-b562-88cbdf3e79f9"
             },  
             {
                 "genre": {
@@ -1159,7 +1304,8 @@
                     "english": "Alien Sci-Fi"
                 },
                 "code": 3327,
-                "link": "https://www.netflix.com/browse/genre/3327"
+                "link": "https://www.netflix.com/browse/genre/3327",
+                "id": "16fbc8af-8e21-494a-8d8e-0d55388c9427"
             },  
             {
                 "genre": {
@@ -1167,7 +1313,8 @@
                     "english": "Classic Sci-Fi & Fantasy"
                 },
                 "code": 47147,
-                "link": "https://www.netflix.com/browse/genre/47147"
+                "link": "https://www.netflix.com/browse/genre/47147",
+                "id": "18cc303a-2d05-4b8b-b639-58e0f6c9c78b"
             },  
             {
                 "genre": {
@@ -1175,7 +1322,8 @@
                     "english": "Fantasy"
                 },
                 "code": 9744,
-                "link": "https://www.netflix.com/browse/genre/9744"
+                "link": "https://www.netflix.com/browse/genre/9744",
+                "id": "42c0f2b1-c7ac-4ece-a226-36b20bfd0272"
             },  
             {
                 "genre": {
@@ -1183,7 +1331,8 @@
                     "english": "Sci-Fi Adventure"
                 },
                 "code": 6926,
-                "link": "https://www.netflix.com/browse/genre/6926"
+                "link": "https://www.netflix.com/browse/genre/6926",
+                "id": "bbf8fa1b-6ef6-4535-bfb7-03491aaec93a"
             },  
             {
                 "genre": {
@@ -1191,7 +1340,8 @@
                     "english": "Sci-Fi Dramas"
                 },
                 "code": 3916,
-                "link": "https://www.netflix.com/browse/genre/3916"
+                "link": "https://www.netflix.com/browse/genre/3916",
+                "id": "afed9f4d-0afd-4a9c-a425-9e30453d010c"
             },  
             {
                 "genre": {
@@ -1199,7 +1349,8 @@
                     "english": "Sci-Fi Horror Films"
                 },
                 "code": 1694,
-                "link": "https://www.netflix.com/browse/genre/1694"
+                "link": "https://www.netflix.com/browse/genre/1694",
+                "id": "30f6620e-2a31-4feb-aadb-02f716b292f0"
             },  
             {
                 "genre": {
@@ -1207,7 +1358,8 @@
                     "english": "Sci-Fi Thrillers"
                 },
                 "code": 11014,
-                "link": "https://www.netflix.com/browse/genre/11014"
+                "link": "https://www.netflix.com/browse/genre/11014",
+                "id": "b6e1a7a3-6a04-49b5-bb1a-95ff91168e0f"
             },  
             {
                 "genre": {
@@ -1215,7 +1367,8 @@
                     "english": "Sports Films"
                 },
                 "code": 4370,
-                "link": "https://www.netflix.com/browse/genre/4370"
+                "link": "https://www.netflix.com/browse/genre/4370",
+                "id": "e1bed626-b73b-4b24-a55b-5a743740d80f"
             },  
             {
                 "genre": {
@@ -1223,7 +1376,8 @@
                     "english": "Baseball Films"
                 },
                 "code": 12339,
-                "link": "https://www.netflix.com/browse/genre/12339"
+                "link": "https://www.netflix.com/browse/genre/12339",
+                "id": "1363b515-6824-46b4-99b6-0b8f08ecf57e"
             },  
             {
                 "genre": {
@@ -1231,7 +1385,8 @@
                     "english": "Boxing Films"
                 },
                 "code": 12443,
-                "link": "https://www.netflix.com/browse/genre/12443"
+                "link": "https://www.netflix.com/browse/genre/12443",
+                "id": "caed951c-d348-4531-87f7-a25201702887"
             },  
             {
                 "genre": {
@@ -1239,7 +1394,8 @@
                     "english": "Football Films"
                 },
                 "code": 12549,
-                "link": "https://www.netflix.com/browse/genre/12549"
+                "link": "https://www.netflix.com/browse/genre/12549",
+                "id": "b3fd1242-1477-490d-8758-5879d9467c30"
             },  
             {
                 "genre": {
@@ -1247,7 +1403,8 @@
                     "english": "Martial Arts, Boxing & Wrestling"
                 },
                 "code": 6695,
-                "link": "https://www.netflix.com/browse/genre/6695"
+                "link": "https://www.netflix.com/browse/genre/6695",
+                "id": "11cfc136-97bd-4cf6-bd39-f77fc903729d"
             },  
             {
                 "genre": {
@@ -1255,7 +1412,8 @@
                     "english": "Basketball Films"
                 },
                 "code": 12762,
-                "link": "https://www.netflix.com/browse/genre/12762"
+                "link": "https://www.netflix.com/browse/genre/12762",
+                "id": "e57c0e35-c7f5-4167-ac12-094f37b4cc82"
             },  
             {
                 "genre": {
@@ -1263,7 +1421,8 @@
                     "english": "Sport & Fitness"
                 },
                 "code": 9327,
-                "link": "https://www.netflix.com/browse/genre/9327"
+                "link": "https://www.netflix.com/browse/genre/9327",
+                "id": "1218f808-a26a-4202-8f01-ff33c4933af9"
             },  
             {
                 "genre": {
@@ -1271,7 +1430,8 @@
                     "english": "Thrillers"
                 },
                 "code": 8933,
-                "link": "https://www.netflix.com/browse/genre/8933"
+                "link": "https://www.netflix.com/browse/genre/8933",
+                "id": "72b3e55f-6b7e-46fd-b6ee-c3a99c3f1852"
             },  
             {
                 "genre": {
@@ -1279,7 +1439,8 @@
                     "english": "Crime Thrillers"
                 },
                 "code": 10499,
-                "link": "https://www.netflix.com/browse/genre/10499"
+                "link": "https://www.netflix.com/browse/genre/10499",
+                "id": "d34045ac-870c-428c-80e3-06469794dc5e"
             },  
             {
                 "genre": {
@@ -1287,7 +1448,8 @@
                     "english": "Gangster Films"
                 },
                 "code": 31851,
-                "link": "https://www.netflix.com/browse/genre/31851"
+                "link": "https://www.netflix.com/browse/genre/31851",
+                "id": "fe09933a-68b9-4c73-b678-0e1dfca2f6bb"
             },  
             {
                 "genre": {
@@ -1295,7 +1457,8 @@
                     "english": "Psychological Thrillers"
                 },
                 "code": 5505,
-                "link": "https://www.netflix.com/browse/genre/5505"
+                "link": "https://www.netflix.com/browse/genre/5505",
+                "id": "a76cd884-50f8-4ea8-b378-7405ba5d67e4"
             },  
             {
                 "genre": {
@@ -1303,7 +1466,8 @@
                     "english": "Mysteries"
                 },
                 "code": 9994,
-                "link": "https://www.netflix.com/browse/genre/9994"
+                "link": "https://www.netflix.com/browse/genre/9994",
+                "id": "37ffae27-6554-466c-8615-170f1d9ef777"
             },  
             {
                 "genre": {
@@ -1311,7 +1475,8 @@
                     "english": "Spy Thrillers"
                 },
                 "code": 9147,
-                "link": "https://www.netflix.com/browse/genre/9147"
+                "link": "https://www.netflix.com/browse/genre/9147",
+                "id": "4b7814bd-b84f-41b4-8e81-6fbebf36b814"
             },  
             {
                 "genre": {
@@ -1319,7 +1484,8 @@
                     "english": "Steamy Thrillers"
                 },
                 "code": 972,
-                "link": "https://www.netflix.com/browse/genre/972"
+                "link": "https://www.netflix.com/browse/genre/972",
+                "id": "a27d7589-1660-40f2-8627-bda536354636"
             },  
             {
                 "genre": {
@@ -1327,7 +1493,8 @@
                     "english": "Supernatural Thrillers"
                 },
                 "code": 11140,
-                "link": "https://www.netflix.com/browse/genre/11140"
+                "link": "https://www.netflix.com/browse/genre/11140",
+                "id": "d0f95a9b-7bfb-4edb-915b-8f39140de2be"
             },  
             {
                 "genre": {
@@ -1335,7 +1502,8 @@
                     "english": "Series"
                 },
                 "code": 83,
-                "link": "https://www.netflix.com/browse/genre/83"
+                "link": "https://www.netflix.com/browse/genre/83",
+                "id": "fe7982dc-eb02-4296-bdc1-841997ebc5a3"
             },  
             {
                 "genre": {
@@ -1343,7 +1511,8 @@
                     "english": "British Programmes"
                 },
                 "code": 52117,
-                "link": "https://www.netflix.com/browse/genre/52117"
+                "link": "https://www.netflix.com/browse/genre/52117",
+                "id": "9c23fa68-5ea8-4470-9840-2dd368065717"
             },  
             {
                 "genre": {
@@ -1351,7 +1520,8 @@
                     "english": "Classic TV Programmes"
                 },
                 "code": 46553,
-                "link": "https://www.netflix.com/browse/genre/46553"
+                "link": "https://www.netflix.com/browse/genre/46553",
+                "id": "fa772fee-59e8-4725-85c7-c81d3d7ae686"
             },  
             {
                 "genre": {
@@ -1359,7 +1529,8 @@
                     "english": "Crime Programmes"
                 },
                 "code": 26146,
-                "link": "https://www.netflix.com/browse/genre/26146"
+                "link": "https://www.netflix.com/browse/genre/26146",
+                "id": "7aa02d36-8232-4bf0-a2d2-9bf3ef25aaa7"
             },  
             {
                 "genre": {
@@ -1367,7 +1538,8 @@
                     "english": "Cult TV Programmes"
                 },
                 "code": 74652,
-                "link": "https://www.netflix.com/browse/genre/74652"
+                "link": "https://www.netflix.com/browse/genre/74652",
+                "id": "9ce11ed8-a71b-4740-9165-f82262a37951"
             },  
             {
                 "genre": {
@@ -1375,7 +1547,8 @@
                     "english": "Food & Travel TV"
                 },
                 "code": 72436,
-                "link": "https://www.netflix.com/browse/genre/72436"
+                "link": "https://www.netflix.com/browse/genre/72436",
+                "id": "489f2bc1-e8d4-4c43-944a-75009fabaebb"
             },  
             {
                 "genre": {
@@ -1383,7 +1556,8 @@
                     "english": "Korean Programmes"
                 },
                 "code": 67879,
-                "link": "https://www.netflix.com/browse/genre/67879"
+                "link": "https://www.netflix.com/browse/genre/67879",
+                "id": "43ce6bf6-240e-4a10-bd11-a87a8abdd205"
             },  
             {
                 "genre": {
@@ -1391,7 +1565,8 @@
                     "english": "Miniseries"
                 },
                 "code": 4814,
-                "link": "https://www.netflix.com/browse/genre/4814"
+                "link": "https://www.netflix.com/browse/genre/4814",
+                "id": "38a33b71-1de1-4faa-9103-d066e47fb18d"
             },  
             {
                 "genre": {
@@ -1399,7 +1574,8 @@
                     "english": "Military TV Programmes"
                 },
                 "code": 25804,
-                "link": "https://www.netflix.com/browse/genre/25804"
+                "link": "https://www.netflix.com/browse/genre/25804",
+                "id": "6f1edeb2-8ede-4366-baba-f71f2b03c0f0"
             },  
             {
                 "genre": {
@@ -1407,7 +1583,8 @@
                     "english": "Science & Nature TV"
                 },
                 "code": 52780,
-                "link": "https://www.netflix.com/browse/genre/52780"
+                "link": "https://www.netflix.com/browse/genre/52780",
+                "id": "5d315096-ccb4-4603-a98f-29018ca827ce"
             },  
             {
                 "genre": {
@@ -1415,7 +1592,8 @@
                     "english": "Action & Adventure Programmes"
                 },
                 "code": 10673,
-                "link": "https://www.netflix.com/browse/genre/10673"
+                "link": "https://www.netflix.com/browse/genre/10673",
+                "id": "1b0468cc-c9db-4ebe-8216-14a65bed292e"
             },  
             {
                 "genre": {
@@ -1423,7 +1601,8 @@
                     "english": "Comedy Programmes"
                 },
                 "code": 10375,
-                "link": "https://www.netflix.com/browse/genre/10375"
+                "link": "https://www.netflix.com/browse/genre/10375",
+                "id": "6119828a-9615-4fee-a208-0f96f3cab61c"
             },  
             {
                 "genre": {
@@ -1431,7 +1610,8 @@
                     "english": "Docuseries"
                 },
                 "code": 10105,
-                "link": "https://www.netflix.com/browse/genre/10105"
+                "link": "https://www.netflix.com/browse/genre/10105",
+                "id": "dba76fce-ce23-4d2f-ba3b-a01b3173a85d"
             },  
             {
                 "genre": {
@@ -1439,7 +1619,8 @@
                     "english": "Drama Programmes"
                 },
                 "code": 11714,
-                "link": "https://www.netflix.com/browse/genre/11714"
+                "link": "https://www.netflix.com/browse/genre/11714",
+                "id": "4ff72237-77d7-4eef-9eed-5cf28bf49d9e"
             },  
             {
                 "genre": {
@@ -1447,7 +1628,8 @@
                     "english": "Horror Programmes"
                 },
                 "code": 83059,
-                "link": "https://www.netflix.com/browse/genre/83059"
+                "link": "https://www.netflix.com/browse/genre/83059",
+                "id": "36f960c3-555c-4fbd-8aec-2e3969a13e36"
             },  
             {
                 "genre": {
@@ -1455,7 +1637,8 @@
                     "english": "Mystery Programmes"
                 },
                 "code": 4366,
-                "link": "https://www.netflix.com/browse/genre/4366"
+                "link": "https://www.netflix.com/browse/genre/4366",
+                "id": "b1dd517f-642d-44f9-a9e3-b8412f1564da"
             },  
             {
                 "genre": {
@@ -1463,7 +1646,8 @@
                     "english": "Sci-Fi & Fantasy Programmes"
                 },
                 "code": 1372,
-                "link": "https://www.netflix.com/browse/genre/1372"
+                "link": "https://www.netflix.com/browse/genre/1372",
+                "id": "6a65e2a9-274c-4712-8d24-3ddc857b6ea3"
             },  
             {
                 "genre": {
@@ -1471,7 +1655,8 @@
                     "english": "Reality TV"
                 },
                 "code": 9833,
-                "link": "https://www.netflix.com/browse/genre/9833"
+                "link": "https://www.netflix.com/browse/genre/9833",
+                "id": "577d5c0e-4784-4198-a9cd-3dac4d318779"
             },  
             {
                 "genre": {
@@ -1479,7 +1664,8 @@
                     "english": "Teen Programmes"
                 },
                 "code": 60951,
-                "link": "https://www.netflix.com/browse/genre/60951"
+                "link": "https://www.netflix.com/browse/genre/60951",
+                "id": "6847cd1a-f162-474f-bc0b-994016e12856"
             }  
         ]
     }
