@@ -3,182 +3,182 @@
         {
             "letter": "A",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 1
         },
         {
             "letter": "B",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 2
         },
         {
             "letter": "C",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 3
         },
         {
             "letter": "D",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 4
         },
         {
             "letter": "E",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 5
         },
         {
             "letter": "F",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 6
         },
         {
             "letter": "G",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 7
         },
         {
             "letter": "H",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 8
         },
         {
             "letter": "I",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 9
         },
         {
             "letter": "J",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 10
         },
         {
             "letter": "K",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 11
         },
         {
             "letter": "L",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 12
         },
         {
             "letter": "M",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 13
         },
         {
             "letter": "N",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 14
         },
         {
             "letter": "O",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 15
         },
         {
             "letter": "P",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 16
         },
         {
             "letter": "Q",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 17
         },
         {
             "letter": "R",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 18
         },
         {
             "letter": "S",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 19
         },
         {
             "letter": "T",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 20
         },
         {
             "letter": "U",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 21
         },
         {
             "letter": "V",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 22
         },
         {
             "letter": "W",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 23
         },
         {
             "letter": "X",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 24
         },
         {
             "letter": "Y",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 25
         },
         {
             "letter": "Z",
             "correctAnswer": false,
-            "Guessed": false,
+            "clicked": false,
             "correctPosition": [],
             "id": 26
         }
