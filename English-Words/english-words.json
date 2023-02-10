@@ -859,9 +859,596 @@
             "word": "clinic"
         },
         {
-            "word": "clinical"
+            "word": "clip"
+        },
+        {
+            "word": "closure"
+        },
+        {
+            "word": "cluster"
+        },
+        {
+            "word": "coalition"
+        },
+        {
+            "word": "coastal"
+        },
+        {
+            "word": "cocktail"
+        },
+        {
+            "word": "cognitive"
+        },
+        {
+            "word": "coincide"
+        },
+        {
+            "word": "coincidence"
+        },
+        {
+            "word": "collaborate"
+        },
+        {
+            "word": "collaboration"
+        },
+        {
+            "word": "collective"
+        },
+        {
+            "word": "collector"
+        },
+        {
+            "word": "collision"
+        },
+        {
+            "word": "colonial"
+        },
+        {
+            "word": "colony"
+        },
+        {
+            "word": "colourful"
+        },
+        {
+            "word": "columnist"
+        },
+        {
+            "word": "combat"
+        },
+        {
+            "word": "comic"
+        },
+        {
+            "word": "commander"
+        },
+        {
+            "word": "commence"
+        },
+        {
+            "word": "commentary"
+        },
+        {
+            "word": "commentator"
+        },
+        {
+            "word": "commerce"
+        },
+        {
+            "word": "commissioner"
+        },
+        {
+            "word": "commodity"
+        },
+        {
+            "word": "communist"
+        },
+        {
+            "word": "companion"
+        },
+        {
+            "word": "comparable"
+        },
+        {
+            "word": "comparative"
+        },
+        {
+            "word": "compassion"
+        },
+        {
+            "word": "compel"
+        },
+        {
+            "word": "compelling"
+        },
+        {
+            "word": "compensate"
+        },
+        {
+            "word": "compensation"
+        },
+        {
+            "word": "competence"
+        },
+        {
+            "word": "competent"
+        },
+        {
+            "word": "compile"
+        },
+        {
+            "word": "complement"
+        },
+        {
+            "word": "completion"
+        },
+        {
+            "word": "complexity"
+        },
+        {
+            "word": "compliance"
+        },
+        {
+            "word": "complication"
+        },
+        {
+            "word": "comply"
+        },
+        {
+            "word": "compose"
+        },
+        {
+            "word": "composer"
+        },
+        {
+            "word": "composition"
+        },
+        {
+            "word": "compound"
+        },
+        {
+            "word": "comprehensive"
+        },
+        {
+            "word": "comprise"
+        },
+        {
+            "word": "compromise"
+        },
+        {
+            "word": "compulsory"
+        },
+        {
+            "word": "compute"
+        },
+        {
+            "word": "conceal"
+        },
+        {
+            "word": "concede"
+        },
+        {
+            "word": "conceive"
+        },
+        {
+            "word": "conception"
+        },
+        {
+            "word": "concession"
+        },
+        {
+            "word": "concrete"
+        },
+        {
+            "word": "condemn"
+        },
+        {
+            "word": "confer"
+        },
+        {
+            "word": "confess"
+        },
+        {
+            "word": "confession"
+        },
+        {
+            "word": "configuration"
+        },
+        {
+            "word": "confine"
+        },
+        {
+            "word": "confirmation"
+        },
+        {
+            "word": "confront"
+        },
+        {
+            "word": "confrontation"
+        },
+        {
+            "word": "confusion"
+        },
+        {
+            "word": "congratulate"
+        },
+        {
+            "word": "congregation"
+        },
+        {
+            "word": "congressional"
+        },
+        {
+            "word": "conquer"
+        },
+        {
+            "word": "conscience"
+        },
+        {
+            "word": "consciousness"
+        },
+        {
+            "word": "consecutive"
+        },
+        {
+            "word": "consensus"
+        },
+        {
+            "word": "consent"
+        },
+        {
+            "word": "consequently"
+        },
+        {
+            "word": "conservation"
+        },
+        {
+            "word": "conserve"
+        },
+        {
+            "word": "considerable"
+        },
+        {
+            "word": "considerably"
+        },
+        {
+            "word": "consistency"
+        },
+        {
+            "word": "consistently"
+        },
+        {
+            "word": "consolidate"
+        },
+        {
+            "word": "conspiracy"
+        },
+        {
+            "word": "constituency"
+        },
+        {
+            "word": "constitute"
+        },
+        {
+            "word": "constitution"
+        },
+        {
+            "word": "constitutional"
+        },
+        {
+            "word": "constraint"
+        },
+        {
+            "word": "consult"
+        },
+        {
+            "word": "consultant"
+        },
+        {
+            "word": "consultation"
+        },
+        {
+            "word": "consumption"
+        },
+        {
+            "word": "contemplate"
+        },
+        {
+            "word": "contempt"
+        },
+        {
+            "word": "contend"
+        },
+        {
+            "word": "contender"
+        },
+        {
+            "word": "content"
+        },
+        {
+            "word": "contention"
+        },
+        {
+            "word": "continually"
+        },
+        {
+            "word": "contractor"
+        },
+        {
+            "word": "contradiction"
+        },
+        {
+            "word": "contrary"
+        },
+        {
+            "word": "contributor"
+        },
+        {
+            "word": "controversial"
+        },
+        {
+            "word": "controversy"
+        },
+        {
+            "word": "convenience"
+        },
+        {
+            "word": "convention"
+        },
+        {
+            "word": "conventional"
+        },
+        {
+            "word": "conversion"
+        },
+        {
+            "word": "convey"
+        },
+        {
+            "word": "convict"
+        },
+        {
+            "word": "conviction"
+        },
+        {
+            "word": "convincing"
+        },
+        {
+            "word": "cooperate"
+        },
+        {
+            "word": "cooperative"
+        },
+        {
+            "word": "coordinate"
+        },
+        {
+            "word": "coordination"
+        },
+        {
+            "word": "coordinator"
+        },
+        {
+            "word": "cop"
+        },
+        {
+            "word": "cope"
+        },
+        {
+            "word": "copper"
+        },
+        {
+            "word": "copyright"
+        },
+        {
+            "word": "corporation"
+        },
+        {
+            "word": "correction"
+        },
+        {
+            "word": "correlate"
+        },
+        {
+            "word": "correlation"
+        },
+        {
+            "word": "correspond"
+        },
+        {
+            "word": "correspondence"
+        },
+        {
+            "word": "correspondent"
+        },
+        {
+            "word": "corresponding"
+        },
+        {
+            "word": "corridor"
+        },
+        {
+            "word": "corrupt"
+        },
+        {
+            "word": "corruption"
+        },
+        {
+            "word": "costly"
+        },
+        {
+            "word": "councillor"
+        },
+        {
+            "word": "counselling"
+        },
+        {
+            "word": "counsellor"
+        },
+        {
+            "word": "counter"
+        },
+        {
+            "word": "counterpart"
+        },
+        {
+            "word": "countless"
+        },
+        {
+            "word": "coup"
+        },
+        {
+            "word": "courtesy"
+        },
+        {
+            "word": "coverage"
+        },
+        {
+            "word": "crack"
+        },
+        {
+            "word": "craft"
+        },
+        {
+            "word": "crawl"
+        },
+        {
+            "word": "creativity"
+        },
+        {
+            "word": "creator"
+        },
+        {
+            "word": "credibility"
+        },
+        {
+            "word": "credible"
+        },
+        {
+            "word": "creep"
+        },
+        {
+            "word": "critically"
+        },
+        {
+            "word": "critique"
+        },
+        {
+            "word": "crown"
+        },
+        {
+            "word": "crude"
+        },
+        {
+            "word": "cruise"
+        },
+        {
+            "word": "crush"
+        },
+        {
+            "word": "crystal"
+        },
+        {
+            "word": "cue"
+        },
+        {
+            "word": "cult"
+        },
+        {
+            "word": "cultivate"
+        },
+        {
+            "word": "curiosity"
+        },
+        {
+            "word": "curious"
+        },
+        {
+            "word": "curriculum"
+        },
+        {
+            "word": "custody"
+        },
+        {
+            "word": "cute"
+        },
+        {
+            "word": "cutting"
+        },
+        {
+            "word": "cynical"
+        },
+        {
+            "word": "dairy"
+        },
+        {
+            "word": "dam"
+        },
+        {
+            "word": "damaging"
+        },
+        {
+            "word": "dare"
+        },
+        {
+            "word": "darkness"
+        },
+        {
+            "word": "database"
+        },
+        {
+            "word": "dawn"
+        },
+        {
+            "word": "deadline"
+        },
+        {
+            "word": "deadly"
+        },
+        {
+            "word": "dealer"
+        },
+        {
+            "word": "debris"
+        },
+        {
+            "word": "debut"
+        },
+        {
+            "word": "decision-making"
+        },
+        {
+            "word": "decisive"
+        },
+        {
+            "word": "deck"
+        },
+        {
+            "word": "declaration"
+        },
+        {
+            "word": "dedicated"
+        },
+        {
+            "word": "dedication"
+        },
+        {
+            "word": "deed"
+        },
+        {
+            "word": "deem"
+        },
+        {
+            "word": "default"
+        },
+        {
+            "word": "defect"
+        },
+        {
+            "word": "defender"
+        },
+        {
+            "word": "defensive"
         }
-
     ]
 
 }
