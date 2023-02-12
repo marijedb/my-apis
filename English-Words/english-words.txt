@@ -1,365 +1,50 @@
-packet n. B2
-pad n. C1
-palm n. B2
-panic n. B2
-parade n. B2
-parallel adj., n. B2
-parameter n. C1
-parental adj. C1
-parish n. C1
-parliamentary adj. C1
-partial adj. C1
-partially adv. C1
-participation n. B2
-partnership n. B2
-part-time adj./adv. B2
-passing n. C1
-passionate adj. B2
-passive adj. C1
-password n. B2
-pastor n. C1
-patch n. C1
-patent n. C1
-pathway n. C1
-patience n. B2
-patrol n., v. C1
-patron n. C1
-pause v., n. B2
-peak n. C1
-peasant n. C1
-peculiar adj. C1
-peer n. B2
-penalty n. B2
-perceive v. B2
-perception n. B2
-permanently adv. B2
-persist v. C1
-persistent adj. C1
-personnel n. C1
-petition n. C1
-philosopher n. C1
-philosophical adj. C1
-physician n. C1
-pill n. B2
-pioneer n., v. C1
-pipeline n. C1
-pirate n. C1
-pit n. C1
-pity n. B2
-placement n. B2
-plea n. C1
-plead v. C1
-pledge v., n. C1
-plug v., n. C1
-plunge v. C1
-pole n. C1
-poll n. C1
-pond n. C1
-pop v. C1
-portfolio n. C1
-portion n. B2
-portray v. C1
-postpone v. C1
-post-war adj. C1
-potentially adv. B2
-practitioner n. C1
-preach v. C1
-precede v. B2
-precedent n. C1
-precious adj. B2
-precise adj. B2
-precisely adv. B2
-precision n. C1
-predator n. C1
-predecessor n. C1
-predictable adj. B2
-predominantly adv. C1
-preference n. B2
-pregnancy n. C1
-prejudice n. C1
-preliminary adj. C1
-premier n. C1
-premise n. C1
-premium n. C1
-prescribe v. C1
-prescription n. C1
-presently adv. C1
-preservation n. C1
-preside v. C1
-presidency n. C1
-presidential adj. C1
-prestigious adj. C1
-presumably adv. C1
-presume v. C1
-prevail v. C1
-prevalence n. C1
-prevention n. C1
-prey n. C1
-pride n. B2
-primarily adv. B2
-principal adj. B2, n. C1
-prior adj. B2
-privatization n. C1
-privilege n. C1
-probability n. B2
-probable adj. B2
-probe n., v. C1
-problematic adj. C1
-proceed v. B2
-proceedings n. C1
-proceeds n. C1
-processing n. C1
-processor n. C1
-proclaim v. C1
-productive adj. C1
-productivity n. C1
-profitable adj. C1
-profound adj. C1
-programming n. B2
-progressive adj. B2
-prohibit v. B2
-projection n. C1
-prominent adj. C1
-promising adj. B2
-promotion n. B2
-prompt v. B2
-pronounced adj. C1
-propaganda n. C1
-proportion n. B2
-proposition n. C1
-prosecute v. C1
-prosecution n. C1
-prosecutor n. C1
-prospective adj. C1
-prosperity n. C1
-protective adj. C1
-protein n. B2
-protester n. B2
-protocol n. C1
-province n. C1
-provincial adj. C1
-provision n. C1
-provoke v. C1
-psychiatric adj. C1
-psychological adj. B2
-publicity n. B2
-publishing n. B2
-pulse n. C1
-pump v., n. C1
-punch n., v. C1
-punk n. B2
-purely adv. B2
-pursuit n. B2
-puzzle n. B2
-query n. C1
-quest n. C1
-questionnaire n. B2
-quota n. C1
-racial adj. B2
-racism n. B2
-racist adj., n. B2
-radar n. C1
-radiation n. B2
-radical adj. C1
-rage n. C1
-raid n., v. C1
-rail n. B2
-rally n., v. C1
-random adj. B2
-ranking n. C1
-rape n., v. C1
-rat n. B2
-rating n. B2
-ratio n. C1
-rational adj. C1
-ray n. C1
-readily adv. C1
-realization n. C1
-realm n. C1
-rear adj., n. C1
-reasonably adv. B2
-reasoning n. C1
-reassure v. C1
-rebel n. C1
-rebellion n. C1
-rebuild v. B2
-receiver n. B2
-recession n. B2
-recipient n. C1
-reckon v. B2
-recognition n. B2
-reconstruction n. C1
-recount1 v. C1
-recovery n. B2
-recruit v., n. B2
-recruitment n. B2
-referee n. B2
-referendum n. C1
-reflection n. C1
-reform n., v. C1
-refuge n. C1
-refugee n. B2
-refusal n. C1
-regain v. C1
-regardless adv. C1
-regime n. C1
-registration n. B2
-regulate v. B2
-regulator n. C1
-regulatory adj. C1
-rehabilitation n. C1
-reign n., v. C1
-reinforce v. B2
-rejection n. C1
-relevance n. C1
-reliability n. C1
-relieve v. B2
-relieved adj. B2
-reluctant adj. C1
-remainder n. C1
-remains n. C1
-remarkable adj. B2
-remarkably adv. B2
-remedy n. C1
-reminder n. C1
-removal n. C1
-render v. C1
-renew v. C1
-renowned adj. C1
-rental n. C1
-replacement n. C1
-reportedly adv. C1
-reporting n. B2
-representation n. C1
-reproduce v. C1
-reproduction n. C1
-republic n. C1
-resemble v. C1
-reside v. C1
-residence n. C1
-residential adj. C1
-residue n. C1
-resign v. B2
-resignation n. C1
-resistance n. C1
-resolution n. B2
-respective adj. C1
-respectively adv. C1
-restoration n. C1
-restore v. B2
-restraint n. C1
-restrict v. B2
-restriction n. B2
-resume v. C1
-retail n. B2
-retirement n. B2
-retreat n., v. C1
-retrieve v. C1
-revelation n. C1
-revenge n. C1
-revenue n. B2
-reverse v., n., adj. C1
-revision n. B2
-revival n. C1
-revive v. C1
-revolutionary adj. C1
-rhetoric n. C1
-ridiculous adj. B2
-rifle n. C1
-riot n. C1
-rip v. C1
-risky adj. B2
-ritual n. C1
-rival n., adj. B2
-rob v. B2
-robbery n. B2
-robust adj. C1
-rock v. C1
-rocket n. B2
-rod n. C1
-romance n. B2
-rose n. B2
-rotate v. C1
-rotation n. C1
-roughly adv. B2
-ruin v., n. B2
-ruling n. C1
-rumour n. C1
 sack v. C1
 sacred adj. C1
 sacrifice n.,
-v. C1
 saint n. C1
 sake n. C1
 sanction n. C1
 satisfaction n. B2
 say n. C
-1
-s
-c
-a
-ndal n. B2
-s
-c
-are v., n. B2
+scandal n. B2
+scare v., n. B2
 scattered adj. C1 scenario n. B2 sceptical adj. C1
 scholar n. B2
 scholarship n. B2
 scope n. C1
 scratch
-v., n. B2
 screening n. B2
 screw v., n. C1
 scrutiny n. C1
 seal v., n. C1 secular adj. C1 seeker n. B2 seemingly adv. C1 segment n. C1
 seize
-v. C1
 seldom adv. C1
 selective adj.
-C
-1
 seminar n. B2
 senator n. C1
 sensation n. C1
 sensitivity n. C1
 sentiment n. C1
 separation n. C1
-seri
-al adj. C1
-s
-e
-ttl
-e
-m
-ent n. C1
+serial adj. C1
+settlement n. C1
 settler n. B2 set-up n. C1
 severely adv. B2
 sexuality n. C
-1
 sexy adj. B2
 shaped adj. B2
-sh
-are
-hol
-der n. C
-1
+shareholder n. C
 shatter
-v. C1
 shed
-v. C1
 sheer adj. C1
 shipping n. C
-1
 shocking
-adj. B2
 shoot n. C1
 shore n. B2
 shortage n. B2
 shortly adv. B2 short-term adj. B2
 shrink v. C1
 shrug v.
-C
-1
 sibling n. B2 sigh v., n. C1
 signature n. B2
 significance n. B2
@@ -517,6 +202,14 @@ sympathetic adj. B2
 syndrome n. C1
 synthesis n. C1
 systematic adj. C1
+
+
+
+
+
+
+
+
 tackle v. B2, n. C1
 tactic n. C1
 tactical adj. C1
@@ -624,6 +317,10 @@ tuition n. C1
 turnout n. C1
 turnover n. C1
 twist v., n. C1
+
+
+
+
 ultimate adj. B2
 unacceptable adj. B2
 uncertainty n. B2
@@ -650,6 +347,12 @@ useless adj. B2
 utility n. C1
 utilize v. C1
 utterly adv. C1
+
+
+
+
+
+
 vacuum n. C1
 vague adj. C1
 valid adj. B2
@@ -685,6 +388,10 @@ voting n. B2
 vow v. C1
 vulnerability n. C1
 vulnerable adj. C1
+
+
+
+
 wander v. B2
 ward n. C1
 warehouse n. C1
